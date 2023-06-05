@@ -7,8 +7,8 @@
 
 |  1  Helen - Barista  |  2    |
 | ---- | ---- |
-| H:  A cappuccino, please. | B:  Are you Diana? |
-| B:      What's your name? | H:      No, I'm not.   I'm Helen. |
+| H:  A cappuccino, please. | B:  **Are you** Diana? |
+| B:      **What's** your name? | H:      **No, I'm not**.   I'm Helen. |
 | H:  Helen. | B:  Sorry. |
 | B:      Ellen? | B:  Helen?  Your cappuccino. |
 | H:  No, Helen. | H:      Thanks. |
@@ -23,8 +23,8 @@
 
 |  3    |  4    |
 | ---- | ---- |
-| T:  Hello.   Are you Helen? | T:  Hi.  A tea, please. |
-| H:      Yes, I am.   And you're Tom. | B:      OK.  What's your name? |
+| T:  Hello.   **Are you** Helen? | T:  Hi.  A tea, please. |
+| H:      **Yes, I am.**   And you're Tom. | B:      OK.  **What's** your name? |
 | T:  Yes!   Nice to meet you. | T:  Tom. |
 |  H:     Nice to meet you. | B:      Dorn.  A tea. |
 |  T:  Just a minute. | T:  No, I'm Tom, not Dorn. |
@@ -36,8 +36,9 @@
 ----
 
 1.4 / 92 (G)    
-Sloveso:       **be**              (oznamovací věta,   zápor [-] )
-Zájmena:     **I ,  You** ?   (já, ty )
+Zájmena:               **I       You** ?   =  já          ty 
+Sloveso:       **be**     ..am     ..are     =  jsem    jsi
+
 
 <img src="./1_1A__A_cappuccino_please.assets/image-20230605173302684.png" alt="image-20230605173302684" style="zoom:50%;" />
 
