@@ -34,10 +34,6 @@
 
 ----
 
-1.3 / 6  **Ta samá nahrávka bez hluku:**
-
-<audio controls src="./1_1A__A_cappuccino_please.assets/EF1_4ed_SB__01_03.mp3"></audio>
-
 <img src="./1_1A__A_cappuccino_please.assets/image-20230605171401587.png" alt="image-20230605171401587" style="zoom: 50%;" />
 
 | (3) Tom                       | Helen                             |
@@ -59,6 +55,15 @@
 |                              | Tom.                     |
 | Dorn.  A tea.                |                          |
 |                              | No,  I'm Tom,  not Dorn. |
+
+
+
+1.3 / 6  **Ta samá nahrávka bez hluku:**
+
+<audio controls src="./1_1A__A_cappuccino_please.assets/EF1_4ed_SB__01_03.mp3"></audio>
+
+
+
 
 
 
