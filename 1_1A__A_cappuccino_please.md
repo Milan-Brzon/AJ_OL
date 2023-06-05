@@ -71,8 +71,8 @@
 
 1.4 / 92 (G)    **Já jsem ...    /  A ty jsi ... ?**
 
-Zájmena:                **I          You** ?      =  já              ty 
-Sloveso  **be**:            ..am       ..are     =  ...jsem      ... jsi
+Zájmena:                **I          You** ?            =  já              ty 
+Sloveso  **be**:            **..am       ..are**         =  ...jsem      ... jsi
 
 <img src="./1_1A__A_cappuccino_please.assets/image-20230605173302684.png" alt="image-20230605173302684" style="zoom:50%;" />
 
@@ -192,6 +192,8 @@ Jaký z obrázků ukazuje co si objednali? :
 1.10 /  7  **Poslouchej a řekni další číslo:**
 
 <audio controls src="./1_1A__A_cappuccino_please.assets/EF1_4ed_SB__01_10.mp3"></audio>
+
+
 
 <details>
     <summary>Odpovědi:</summary>
