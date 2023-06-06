@@ -2,7 +2,9 @@
 
 
 
-## 1.2
+## 1.2 / 6
+
+<audio src="./assets/EF1_4ed_SB__01_02.mp3"></audio>
 
 1/
 Helen   A cappuccino, please.
@@ -35,7 +37,9 @@ Tom No, I'm Tom, not Dorn.
 
 
 
-## 1.3
+## 1.3 / 6
+
+<audio src="./assets/EF1_4ed_SB__01_03.mp3"></audio>
 
 1/
 Helen
@@ -74,7 +78,9 @@ Tom No, l’m Tom, not Dorn.
 
 
 
-## 1.4
+## 1.4 / G 92
+
+<audio src="./assets/EF1_4ed_SB__01_04.mp3"></audio>
 
 I am Helen.
 I’m Helen.
@@ -87,25 +93,31 @@ You aren't Dorn.
 
 
 
-## 1.5
+## 1.5 / G 92
 
-A Am I in class 2?
-B Yes, you are.   No, you aren’t.
-A Are you Mike?
-B Yes, I am.      No, I’m not.
+<audio src="./assets/EF1_4ed_SB__01_05.mp3"></audio>
 
-
-
-## 1.6
-
-1 I am          I'm
-2 you are       you’re
-3 I am not      I'm not
-4 you are not   you aren’t
+A | Am I in class 2?
+B | Yes, you are.   No, you aren’t.
+A | Are you Mike?
+B | Yes, I am.      No, I’m not.
 
 
 
-## 1.7
+## 1.6 / 6
+
+<audio src="./assets/EF1_4ed_SB__01_06.mp3"></audio>
+
+1 | I am          I'm
+2 | you are       you’re
+3 | | I am not      I'm not
+4 | you are not   you aren’t
+
+
+
+## 1.7 / 7
+
+<audio src="./assets/EF1_4ed_SB__01_07.mp3"></audio>
 
 Maria   A cappuccino, please.
 Andrew  A tea for me.
@@ -118,7 +130,9 @@ Assistant 1 Two teas and one cappuccino.
 
 
 
-## 1.8 Numbers 1, zero to ten
+## 1.8 / V 116 - Numbers 1, zero to ten
+
+<audio src="./assets/EF1_4ed_SB__01_08.mp3"></audio>
 
 zero
 one
@@ -134,7 +148,9 @@ ten
 
 
 
-## 1.9
+## 1.9 / 7
+
+<audio src="./assets/EF1_4ed_SB__01_09.mp3"></audio>
 
 7
 3
@@ -150,7 +166,10 @@ ten
 
 
 
-## 1.10
+## 1.10 / 7
+
+<audio src="./assets/EF1_4ed_SB__01_10.mp3"></audio>
+
 1.2,  3
 7.8,  9
 3.4,  5
@@ -163,7 +182,9 @@ ten
 
 
 
-## 1.11
+## 1.11 / 7
+
+<audio src="./assets/EF1_4ed_SB__01_11.mp3"></audio>
 
 house /h/   hi hello Helen
 bike /ai/   I'm nice five nine
@@ -171,7 +192,9 @@ tree /i:/   meet three tea please
 
 
 
-## 1.12
+## 1.12 / 7
+
+<audio src="./assets/EF1_4ed_SB__01_12.mp3"></audio>
 
 Hello, Helen!
 Hi, I'm Mike.
@@ -179,7 +202,9 @@ Three teas, please.
 
 
 
-## 1.13
+## 1.13 / 7
+
+<audio src="./assets/EF1_4ed_SB__01_13.mp3"></audio>
 
 Monday
 Tuesday
@@ -191,14 +216,18 @@ Sunday
 
 
 
-## 1.14
+## 1.14 / 7
+
+<audio src="./assets/EF1_4ed_SB__01_14.mp3"></audio>
 
 Helen Goodbye, Tom. See you on Friday.
 Tom Bye.
 
 
 
-## 1.15
+## 1.15 / P 131
+
+<audio src="./assets/EF1_4ed_SB__01_15.mp3"></audio>
 
 Hello.
 Hi.
@@ -222,80 +251,94 @@ See you tomorrow.
 
 
 
-## 1.16
+## 1.16 / 8
 
-1 [Flamenco, from Spain]
-2 [American country music]
-3 [Chinese music]
-4 [Turkish music]
-5 [English folk, e.g. a bit of Eliza McCarthy]
+<audio src="./assets/EF1_4ed_SB__01_16.mp3"></audio>
 
-
-
-## 1.17
-
-1 Spain
-2 the United States
-3 China
-4 Turkey
-5 England
+1 | [Flamenco, from Spain]
+2 | [American country music]
+3 | [Chinese music]
+4 | [Turkish music]
+5 | [English folk, e.g. a bit of Eliza McCarthy]
 
 
 
-## 1.18 Countries and nationalities, 1 countries
+## 1.17 / 8
 
-1 Brazil
-2 China
-3 Egypt
-4 England (the UK)
-5 France
-6 Germany
-7 Italy
-8 Japan
-9 Mexico
-10 Poland
-11 Russia
-12 Spain
-13 Switzerland
-14 Turkey
-15 The United States
+<audio src="./assets/EF1_4ed_SB__01_17.mp3"></audio>
+
+1 | Spain
+2 | the United States
+3 | China
+4 | Turkey
+5 | England
 
 
 
-## 1.19
+## 1.18 / V 117 -  Countries and nationalities, 1 countries
 
-A Where are you from?
-B I’m from Toledo.
-A Where's Toledo?
-B It’s in Spain.
+<audio src="./assets/EF1_4ed_SB__01_18.mp3"></audio>
 
-
-
-## 1.20
-
-A Wow! Caetano Veloso!
-B Where's he from?
-A He’s from Brazil.
-B Is Lila Downs from Brazil, too?
-A No, she isn’t. She’s from Mexico.
-B Is she good?
-A Yes, she is. Very good.
-
-
-
-## 1.21
-
-A Wow! Caetano Veloso!
-B Where’s he from?
-A He’s from Brazil.
-B Is Lila Downs from Brazil too?
-A No she isn’t. She’s from Mexico.
-B Is she good?
-A Yes, she is. Very good.
+1 | Brazil
+2 | China
+3 | Egypt
+4 | England (the UK)
+5 | France
+6 | Germany
+7 | Italy
+8 | Japan
+9 | Mexico
+10 | Poland
+11 | Russia
+12 | Spain
+13 | Switzerland
+14 | Turkey
+15 | The United States
 
 
 
-## 1.22
+## 1.19 / 8
+
+<audio src="./assets/EF1_4ed_SB__01_19.mp3"></audio>
+
+A | Where are you from?
+B | I’m from Toledo.
+A | Where's Toledo?
+B | It’s in Spain.
+
+
+
+## 1.20 / 8
+
+<audio src="./assets/EF1_4ed_SB__01_20.mp3"></audio>
+
+A | Wow! Caetano Veloso!
+B | Where's he from?
+A | He’s from Brazil.
+B | Is Lila Downs from Brazil, too?
+A | No, she isn’t. She’s from Mexico.
+B | Is she good?
+A | Yes, she is. Very good.
+
+
+
+## 1.21 / 8
+
+<audio src="./assets/EF1_4ed_SB__01_21.mp3"></audio>
+
+A | Wow! Caetano Veloso!
+B | Where’s he from?
+A | He’s from Brazil.
+B | Is Lila Downs from Brazil too?
+A | No she isn’t. She’s from Mexico.
+B | Is she good?
+A | Yes, she is. Very good.
+
+
+
+## 1.22 / G 92
+
+<audio src="./assets/EF1_4ed_SB__01_22.mp3"></audio>
 
 He is from Italy.
 She is from Spain
@@ -307,7 +350,9 @@ It’s from China.
 
 
 
-## 1.23
+## 1.23 / G 92
+
+<audio src="./assets/EF1_4ed_SB__01_23.mp3"></audio>
 
 He is not from Egypt.
 She is not from Brazil
@@ -319,18 +364,22 @@ It isn’t from Japan.
 
 
 
-## 1.24
+## 1.24 / G 92
 
-A Is he from France?
-B Yes, he is. No, he isn’t.
-A Is she from Turkey?
-B Yes, she is. No, she isn’t.
-A Is it good?
-B Yes, it is. No, it isn't.
+<audio src="./assets/EF1_4ed_SB__01_24.mp3"></audio>
+
+A | Is he from France?
+B | Yes, he is. No, he isn’t.
+A | Is she from Turkey?
+B | Yes, she is. No, she isn’t.
+A | Is it good?
+B | Yes, it is. No, it isn't.
 
 
 
-## 1.25
+## 1.25 / 9
+
+<audio src="./assets/EF1_4ed_SB__01_25.mp3"></audio>
 
 fish /i/ it Italy six England
 phone/au/ no don't Poland Mexico know
@@ -339,7 +388,9 @@ shower/J/ she Russia
 
 
 
-## 1.26
+## 1.26 / 9
+
+<audio src="./assets/EF1_4ed_SB__01_26.mp3"></audio>
 
 Is he from Italy?
 I don't know.
@@ -348,64 +399,74 @@ She’s from Russia.
 
 
 
-## 1.27
+## 1.27 / 9
 
-1 a Is he from Egypt?
+<audio src="./assets/EF1_4ed_SB__01_27.mp3"></audio>
+
+1 | a Is he from Egypt?
   b Is she from Egypt?
 
-2 a He's from Turkey,
+2 | a He's from Turkey,
   b She's from Turkey.
 
-3 a Where’s he from?
+3 | a Where’s he from?
   b Where's she from?
 
-4 a He's nice,
+4 | a He's nice,
   b She's nice.
 
-5 a Where is he?
+5 | a Where is he?
   b Where is she?
 
 
 
-## 1.28
+## 1.28 / 9
 
-1 Is she from Egypt?
-2 He’s from Turkey
-3 Where’s he from?
-4 She’s nice.
-5 Where is he?
+<audio src="./assets/EF1_4ed_SB__01_28.mp3"></audio>
 
-
-
-## 1.29
-
-1 He’s from Egypt.
-2 She’s from Germany.
-3 She isn’t from Japan.
-4 Is he from Turkey?
-5 He isn’t from England.
-6 Is she from Brazil?
+1 | Is she from Egypt?
+2 | He’s from Turkey
+3 | Where’s he from?
+4 | She’s nice.
+5 | Where is he?
 
 
 
-## 1.30
+## 1.29 / 9
 
-1 He's from the USA.
-2 It’s from China.
-3 He’s from Germany.
-4 She’s from Egypt.
-5 He’s from France.
-6 It’s from Spain.
-7 She’s from Japan.
-8 He’s from Mexico.
-9 It’s from Russia.
-10 He’s from Italy.
-11 1t’s from Switzerland.
-12 She’s from the UK.
+<audio src="./assets/EF1_4ed_SB__01_29.mp3"></audio>
+
+1 | He’s from Egypt.
+2 | She’s from Germany.
+3 | She isn’t from Japan.
+4 | Is he from Turkey?
+5 | He isn’t from England.
+6 | Is she from Brazil?
 
 
 
-## 1.31
+## 1.30 / 9
+
+<audio src="./assets/EF1_4ed_SB__01_30.mp3"></audio>
+
+1 | He's from the USA.
+2 | It’s from China.
+3 | He’s from Germany.
+4 | She’s from Egypt.
+5 | He’s from France.
+6 | It’s from Spain.
+7 | She’s from Japan.
+8 | He’s from Mexico.
+9 | It’s from Russia.
+10 | He’s from Italy.
+11 | 1t’s from Switzerland.
+12 | She’s from the UK.
+
+
+
+## 1.31 / P 131
+
+<audio src="./assets/EF1_4ed_SB__01_31.mp3"></audio>
 
 Where are you from?
 I’m from Spain.
@@ -422,7 +483,9 @@ Wow!
 
 
 
-## 1.32
+## 1.32 / 10
+
+<audio src="./assets/EF1_4ed_SB__01_32.mp3"></audio>
 
 A, B, C, D
 E, F, G, H
@@ -434,7 +497,9 @@ X, Y, Z
 
 
 
-## 1.33
+## 1.33 / 10
+
+<audio src="./assets/EF1_4ed_SB__01_33.mp3"></audio>
 
 tree /i:/
 egg lei
@@ -446,54 +511,62 @@ A H J K
 
 
 
-## 1.34
+## 1.34 / 10
 
-1 E A
-2 E I
-3 U W
-4 Y I
-5 B P
-6 B V
-7 G J
-8 K Q
-9 M N
-10S C
-11 D    T
-12 W V
+<audio src="./assets/EF1_4ed_SB__01_34.mp3"></audio>
 
-
-
-## 1.35
-
-1 A
-2 E
-3 W
-4 I
-5 B
-6 V
-7 J
-8 K
-9 N
-10 C
-11 T
-12 W
+1 | E A
+2 | E I
+3 | U W
+4 | Y I
+5 | B P
+6 | B V
+7 | G J
+8 | K Q
+9 | M N
+10 | S C
+11 | D    T
+12 | W V
 
 
 
-## 1.36
+## 1.35 / 10
 
-1 VIP
-2 CNN
-3 FBI
-4 BBC
-5 ATM
-6 USB
-7 BMW
-8 EU
+<audio src="./assets/EF1_4ed_SB__01_35.mp3"></audio>
+
+1 | A
+2 | E
+3 | W
+4 | I
+5 | B
+6 | V
+7 | J
+8 | K
+9 | N
+10 | C
+11 | T
+12 | W
 
 
 
-## 1.37
+## 1.36 / 10
+
+<audio src="./assets/EF1_4ed_SB__01_36.mp3"></audio>
+
+1 | VIP
+2 | CNN
+3 | FBI
+4 | BBC
+5 | ATM
+6 | USB
+7 | BMW
+8 | EU
+
+
+
+## 1.37 / 10
+
+<audio src="./assets/EF1_4ed_SB__01_37.mp3"></audio>
 
 Student   What’s libro in English?
 Teacher   Book.
@@ -502,40 +575,46 @@ Teacher   B-O-O-K.
 
 
 
-## 1.38 The classroom, 1, things in the classroom
+## 1.38 / V 118 -  The classroom, 1, things in the classroom
 
-1 the board
-2 the door
-3 a window
-4 a chair
-5 a coat
-6 a table
-7 a laptop
-8 a dictionary
-9 a piece of paper
-10 a pen
-11 a bag
+<audio src="./assets/EF1_4ed_SB__01_38.mp3"></audio>
 
-
-
-## 1.39 2, classroom language
-
-1 Look at the board, please.
-2 Open your books.
-3 Go to page 10.
-4 Close your books.
-5 Stand up, please.
-6 Sit down.
-7 How do you spell it?
-8 Sorry? Can you repeat that, please?
-9 Excuse me. What’s gracias in English?
-10 I don’t understand.
-11 I don’t know.
-12 Sorry I’m late.
+1 | the board
+2 | the door
+3 | a window
+4 | a chair
+5 | a coat
+6 | a table
+7 | a laptop
+8 | a dictionary
+9 | a piece of paper
+10 | a pen
+11 | a bag
 
 
 
-## 1.40
+## 1.39 / V 118 -  2) classroom language
+
+<audio src="./assets/EF1_4ed_SB__01_39.mp3"></audio>
+
+1 | Look at the board, please.
+2 | Open your books.
+3 | Go to page 10.
+4 | Close your books.
+5 | Stand up, please.
+6 | Sit down.
+7 | How do you spell it?
+8 | Sorry? Can you repeat that, please?
+9 | Excuse me. What’s gracias in English?
+10 | I don’t understand.
+11 | I don’t know.
+12 | Sorry I’m late.
+
+
+
+## 1.40 / 10
+
+<audio src="./assets/EF1_4ed_SB__01_40.mp3"></audio>
 
 1/
 Teacher
@@ -562,24 +641,30 @@ That’s OK. Sit down, please.
 
 
 
-## 1.41
+## 1.41 / 10
 
-1 Stand up.
-2 Close your books.
-3 Sit down please.
-4 Open your books.
-5 Go to page 9.
+<audio src="./assets/EF1_4ed_SB__01_41.mp3"></audio>
+
+1 | Stand up.
+2 | Close your books.
+3 | Sit down please.
+4 | Open your books.
+5 | Go to page 9.
 
 
 
-## 1.42
+## 1.42 / 11
+
+<audio src="./assets/EF1_4ed_SB__01_42.mp3"></audio>
 
 Hello. I’m Rob. I’m from London. I’m a journalist.
 Today I’m in Poland. I’m not on holiday. I’m here for work.
 
 
 
-## 1.43
+## 1.43 / 11
+
+<audio src="./assets/EF1_4ed_SB__01_43.mp3"></audio>
 
 Rob    Hello.
 Receptionist Good afternoon.
@@ -595,7 +680,9 @@ Rob    Thanks.
 
 
 
-## 1.44
+## 1.44 / 11
+
+<audio src="./assets/EF1_4ed_SB__01_44.mp3"></audio>
 
 Rob
 Receptionist
@@ -623,7 +710,9 @@ Thanks.
 
 
 
-## 1.45
+## 1.45 / 11
+
+<audio src="./assets/EF1_4ed_SB__01_45.mp3"></audio>
 
 Hi. I’m Jenny Zielinski. I’m from New York.
 Tomorrow’s my birthday, and my favourite restaurant
@@ -631,7 +720,9 @@ in New York is Locanda Verde. It’s Italian.
 
 
 
-## 1.46
+## 1.46 / 11
+
+<audio src="./assets/EF1_4ed_SB__01_46.mp3"></audio>
 
 Waiter Locanda Verde. Good morning. How can I
 help you?
@@ -652,7 +743,9 @@ Waiter Goodbye, see you tomorrow.
 
 
 
-## 1.47
+## 1.47 / 11
+
+<audio src="./assets/EF1_4ed_SB__01_47.mp3"></audio>
 
 Rob I have a reservation.
 Receptionist    How do you spell it?
@@ -669,7 +762,9 @@ Jenny   That’s right.
 
 
 
-## 2.1 Countries and nationalities 2, nationalities
+## 2.1 / V 117 -  Countries and nationalities 2, nationalities
+
+<audio src="./assets/EF1_4ed_SB__02_01.mp3"></audio>
 
 Brazil Brazilian
 China Chinese
@@ -690,7 +785,9 @@ the UK British
 
 
 
-## 2.2
+## 2.2 / 12
+
+<audio src="./assets/EF1_4ed_SB__02_02.mp3"></audio>
 
 jazz /d3/ Japan Germany Egypt
 chess /tj/ Chinese French
@@ -698,7 +795,9 @@ shower /J/ Spanish Polish Egyptian
 
 
 
-## 2.3
+## 2.3 / 12
+
+<audio src="./assets/EF1_4ed_SB__02_03.mp3"></audio>
 
 He isn’t from Egypt, he’s German.
 It isn’t French, it’s Chinese.
@@ -706,44 +805,48 @@ She isn't Spanish, she’s Polish.
 
 
 
-## 2.4
+## 2.4 / 12
 
-1 I’m from China.
+<audio src="./assets/EF1_4ed_SB__02_04.mp3"></audio>
+
+1 | I’m from China.
 He’s Chinese.
-2 I'm from Spain.
+2 | I'm from Spain.
 She’s Spanish.
-3 I’m from Japan.
+3 | I’m from Japan.
 He’s Japanese.
-4 I’m from Switzerland.
+4 | I’m from Switzerland.
 She’s Swiss.
-5 I’m from the USA.
+5 | I’m from the USA.
 He’s American.
-6 I'm from Italy.
+6 | I'm from Italy.
 She’s Italian.
-7 I’m from Germany.
+7 | I’m from Germany.
 He’s German.
-8 I’m from Mexico.
+8 | I’m from Mexico.
 She’s Mexican.
-9 I’m from England.
+9 | I’m from England.
 He's English.
-10 I’m from Turkey.
+10 | I’m from Turkey.
 She’s Turkish.
-11 I’m from Poland.
+11 | I’m from Poland.
 He’s Polish.
-12 I’m from Egypt.
+12 | I’m from Egypt.
 She’s Egyptian.
-13 I’m from Brazil.
+13 | I’m from Brazil.
 He’s Brazilian.
-14 I’m from France.
+14 | I’m from France.
 She’s French.
-15 I’m from Russia.
+15 | I’m from Russia.
 He’s Russian.
-16 I’m from the UK.
+16 | I’m from the UK.
 She’s British.
 
 
 
-## 2.5
+## 2.5 / 12
+
+<audio src="./assets/EF1_4ed_SB__02_05.mp3"></audio>
 
 Jessica	Excuse me. Are they free?
 Charles	Yes, they are. Please sit down.
@@ -757,7 +860,9 @@ Jim	Nice to meet you.
 
 
 
-## 2.6
+## 2.6  / G 94
+
+<audio src="./assets/EF1_4ed_SB__02_06.mp3"></audio>
 
 We are American.
 You are Egyptian
@@ -768,7 +873,9 @@ They’re German
 
 
 
-## 2.7
+## 2.7 / G 94
+
+<audio src="./assets/EF1_4ed_SB__02_07.mp3"></audio>
 
 We are not American.
 You are not Egyptian.
@@ -779,37 +886,43 @@ They aren’t German
 
 
 
-## 2.8
+## 2.8 / G 94
 
-A Are we late?
-B   Yes,    you are.    No, you aren’t.
-A Are you from Russia?
-B   Yes,    we are. No, we aren't.
-A Are they Mexican?
-B   Yes,    they are.   No, they aren’t.
+<audio src="./assets/EF1_4ed_SB__02_08.mp3"></audio>
+
+A | Are we late?
+B |   Yes,    you are.    No, you aren’t.
+A | Are you from Russia?
+B |   Yes,    we are. No, we aren't.
+A | Are they Mexican?
+B |   Yes,    they are.   No, they aren’t.
 
 
 
-## 2.9
+## 2.9 / 12
 
-1 You’re Chinese.
+<audio src="./assets/EF1_4ed_SB__02_09.mp3"></audio>
+
+1 | You’re Chinese.
 Are you Chinese?
-2 We’re late.
+2 | We’re late.
 Are we late?
-3 They’re in class 2.
+3 | They’re in class 2.
 Are they in class 2?
-4 You’re Italian.
+4 | You’re Italian.
 Are you Italian?
-5 They’re English.
+5 | They’re English.
 Are they English?
-6 We’re in room 5.
+6 | We’re in room 5.
 Are we in room 5?
-7 They’re Japanese
+7 | They’re Japanese
 Are they Japanese?
 
 
 
-## 2.10
+## 2.10 / 13
+
+<audio src="./assets/EF1_4ed_SB__02_10.mp3"></audio>
 
 Jessica Where in England are you from?
 Charles We’re from here, from Oxford.
@@ -830,18 +943,22 @@ Rachel  Bye. Good dogs, good dogs.
 
 
 
-## 2.11
+## 2.11 / 13
 
-1 Jessica   Excuse me. Are they free?
-2 Rachel    Are you on holiday?
-3 Jim   We’re on business.
-4 Jessica   What’s that?
-5 Jessica   Have a nice day!
-6 Charles   Nice to meet you, too.
+<audio src="./assets/EF1_4ed_SB__02_11.mp3"></audio>
+
+1 | Jessica   Excuse me. Are they free?
+2 | Rachel    Are you on holiday?
+3 | Jim   We’re on business.
+4 | Jessica   What’s that?
+5 | Jessica   Have a nice day!
+6 | Charles   Nice to meet you, too.
 
 
 
-## 2.12
+## 2.12 / P 131
+
+<audio src="./assets/EF1_4ed_SB__02_12.mp3"></audio>
 
 Excuse me.
 Are they free?
@@ -860,7 +977,9 @@ over there
 
 
 
-## 2.13
+## 2.13 / 14
+
+<audio src="./assets/EF1_4ed_SB__02_13.mp3"></audio>
 
 Pia Who’s he?
 Lin He’s Alex. He’s in my class.
@@ -872,7 +991,9 @@ Pia He’s very good-looking!
 
 
 
-## 2.14
+## 2.14 / 14
+
+<audio src="./assets/EF1_4ed_SB__02_14.mp3"></audio>
 
 Lin Hi, Pia. How are you?
 Pia Hi, Lin. I’m fine, and you?
@@ -890,7 +1011,9 @@ Pia Sorry, my bus! It’s 07365...
 
 
 
-## 2.15
+## 2.15 / 14
+
+<audio src="./assets/EF1_4ed_SB__02_15.mp3"></audio>
 
 Lin Hi, Pia. How are you?
 Pia Hi, Lin. I’m fine, and you?
@@ -908,76 +1031,88 @@ Pia Sorry, my bus! It’s 07365...
 
 
 
-## 2.16
+## 2.16 / 14
+
+<audio src="./assets/EF1_4ed_SB__02_16.mp3"></audio>
 
 How What Where Who
 
 
 
-## 2.17
+## 2.17 / 14
+
+<audio src="./assets/EF1_4ed_SB__02_17.mp3"></audio>
 
 1/
-A Where are you from?
-B I’m from Germany.
+A | Where are you from?
+B | I’m from Germany.
 
 2/
-A How are you?
-B Fine, thanks.
+A | How are you?
+B | Fine, thanks.
 
 3/
-A Who's he?
-B He’s a friend.
+A | Who's he?
+B | He’s a friend.
 
 4/
-A What's your name?
-B Molly.
+A | What's your name?
+B | Molly.
 
 5/
-A Where’s Modena?
-B It’s in Italy.
+A | Where’s Modena?
+B | It’s in Italy.
 
 6/
-A How old are you?
-B 26.
+A | How old are you?
+B | 26.
 
 7/
-A What’s your phone number?
-B 07702 960836.
+A | What’s your phone number?
+B | 07702 960836.
 
 
 
-## 2.18
+## 2.18 / G 94
 
-A Who’s Tom?
-B He’s a friend.
-A What’s your email?
-B johng@gmail.com
-A Where are you from?
-B I’m from Brighton in England.
-A When’s the concert?
-B It’s on Tuesday.
-A How are you?
-B I’m fine, thanks.
-A How old is she?
-B She’s ten.
+<audio src="./assets/EF1_4ed_SB__02_18.mp3"></audio>
+
+A | Who’s Tom?
+B | He’s a friend.
+A | What’s your email?
+B | johng@gmail.com
+A | Where are you from?
+B | I’m from Brighton in England.
+A | When’s the concert?
+B | It’s on Tuesday.
+A | How are you?
+B | I’m fine, thanks.
+A | How old is she?
+B | She’s ten.
 
 
 
-## 2.19
+## 2.19 / 15
+
+<audio src="./assets/EF1_4ed_SB__02_19.mp3"></audio>
 
 03069 990 375
 
 
 
-## 2.20
+## 2.20 / 15
 
-1 028 901 80361
-2 08081 570 724
-3 0131 496 0638
+<audio src="./assets/EF1_4ed_SB__02_20.mp3"></audio>
+
+1 | 028 901 80361
+2 | 08081 570 724
+3 | 0131 496 0638
 
 
 
-## 2.21 Numbers, 2, eleven to twenty
+## 2.21 / V 116 -  Numbers, 2, eleven to twenty
+
+<audio src="./assets/EF1_4ed_SB__02_21.mp3"></audio>
 
 eleven
 twelve
@@ -992,7 +1127,9 @@ twenty
 
 
 
-## 2.22 Numbers, twenty-one to a hundred
+## 2.22 / V 116 -  Numbers, twenty-one to a hundred
+
+<audio src="./assets/EF1_4ed_SB__02_22.mp3"></audio>
 
 twenty-one
 twenty-two
@@ -1014,7 +1151,9 @@ a hundred
 
 
 
-## 2.23
+## 2.23 / 15
+
+<audio src="./assets/EF1_4ed_SB__02_23.mp3"></audio>
 
 15
 97
@@ -1031,15 +1170,17 @@ a hundred
 
 
 
-## 2.24
+## 2.24 / 15
 
-1   13
-2   14
-3   15
-4   16
-5   17
-6   18
-7 19
+<audio src="./assets/EF1_4ed_SB__02_24.mp3"></audio>
+
+1 |   13
+2 |   14
+3 |   15
+4 |   16
+5 |   17
+6 |   18
+7 | 19
 30
 40
 50
@@ -1050,43 +1191,49 @@ a hundred
 
 
 
-## 2.25
+## 2.25 / 15
 
-1   13
-2   40
-3   50
-4   16
-5   70
-6   18
-7 19
+<audio src="./assets/EF1_4ed_SB__02_25.mp3"></audio>
+
+1 |   13
+2 |   40
+3 |   50
+4 |   16
+5 |   70
+6 |   18
+7 | 19
 
 
 
-## 2.26
+## 2.26 / 15
+
+<audio src="./assets/EF1_4ed_SB__02_26.mp3"></audio>
 
 1
-A Great. OK, see you on Tuesday.
-B Yes. Oh, what’s your phone number?
-A It’s, er, 020 7946 0415.
+A | Great. OK, see you on Tuesday.
+B | Yes. Oh, what’s your phone number?
+A | It’s, er, 020 7946 0415.
 
 2
-A Thank you. What’s your address, please?
-B It’s 57 King Street. Very near here.
+A | Thank you. What’s your address, please?
+B | It’s 57 King Street. Very near here.
 
 3
-A Come in, sit down. You’re Martin Blunt, right?
-B Yes.
-A And how old are you, Mr Blunt?
-B I’m 39...
+A | Come in, sit down. You’re Martin Blunt, right?
+B | Yes.
+A | And how old are you, Mr Blunt?
+B | I’m 39...
 
 4
-A Thank you very much. Er, one more thing. What’s
+A | Thank you very much. Er, one more thing. What’s
 your email?
-B It’s james85@ukmail.com.
+B | It’s james85@ukmail.com.
 
 
 
-## 2.27
+## 2.27 / P 131
+
+<audio src="./assets/EF1_4ed_SB__02_27.mp3"></audio>
 
 Who's he?
 How old is he?
@@ -1116,13 +1263,15 @@ Can you understand these people?
 
 
 
-## 2.28
+## 2.28 / 17
+
+<audio src="./assets/EF1_4ed_SB__02_28.mp3"></audio>
 
 1
 I = interviewer, J = Jayna
 I What’s your name?
 J Jayna.
-1 How do you spell it?
+1 | How do you spell it?
 J J-A-Y-N-A.
 
 2
@@ -1153,27 +1302,31 @@ la It’s lain dot Smith at yahoo dot com.
 
 
 
-## 3.1 Small things
+## 3.1 / V 119 -  Small things
 
-1 a phone
-2 a watch
-3 a tablet
-4 a wallet / a purse
-5 a pencil
-6 a notebook
-7 glasses
-8 a photo
-9 a charger
-10 an ID card / a passport
-11 an umbrella
-12 a camera
-13 a credit card / a debit card
-14 a key
-15 a newspaper
+<audio src="./assets/EF1_4ed_SB__03_01.mp3"></audio>
+
+1 | a phone
+2 | a watch
+3 | a tablet
+4 | a wallet / a purse
+5 | a pencil
+6 | a notebook
+7 | glasses
+8 | a photo
+9 | a charger
+10 | an ID card / a passport
+11 | an umbrella
+12 | a camera
+13 | a credit card / a debit card
+14 | a key
+15 | a newspaper
 
 
 
-## 3.2
+## 3.2 / 18
+
+<audio src="./assets/EF1_4ed_SB__03_02.mp3"></audio>
 
 What are the top things people look for every day? At
 number 8, it’s... wallets and purses.
@@ -1181,7 +1334,7 @@ At number 7 umbrellas.
 At number 6 bank cards - credit cards or debit cards.
 At number 5 phone chargers.
 And now for the top four.
-At number 4 glasses and sunglasses.
+At number 4 | glasses and sunglasses.
 At number 3 pens and pencils.
 And at number 2 mobile phones.
 And at number 1 - yes, that’s right - keys. House
@@ -1190,7 +1343,9 @@ So try to find a safe place (fade)...
 
 
 
-## 3.3
+## 3.3 / G 96
+
+<audio src="./assets/EF1_4ed_SB__03_03.mp3"></audio>
 
 What is it?
 It’s a book.
@@ -1200,34 +1355,40 @@ It’s an ID card.
 
 
 
-## 3.4
+## 3.4 / G 96
 
-A   What is it?
-B   It’s a book.
-A   What are they?
-B   They’re books.
-A   What is it?
-B   It’s a key.
-A   What are they?
-B   They’re keys.
-A   What is it?
-B   It’s a watch.
-A   What are they?
-B   They’re watches.
-A   What is it?
-B   It’s a dictionary.
-A   What are they?
-B   They’re dictionaries.
+<audio src="./assets/EF1_4ed_SB__03_04.mp3"></audio>
+
+A |   What is it?
+B |   It’s a book.
+A |   What are they?
+B |   They’re books.
+A |   What is it?
+B |   It’s a key.
+A |   What are they?
+B |   They’re keys.
+A |   What is it?
+B |   It’s a watch.
+A |   What are they?
+B |   They’re watches.
+A |   What is it?
+B |   It’s a dictionary.
+A |   What are they?
+B |   They’re dictionaries.
 
 
 
-## 3.5
+## 3.5 / 18
+
+<audio src="./assets/EF1_4ed_SB__03_05.mp3"></audio>
 
 zebra Izl zero Brazil is he’s
 
 
 
-## 3.6
+## 3.6 / 18
+
+<audio src="./assets/EF1_4ed_SB__03_06.mp3"></audio>
 
 zebra Izl bags phones keys pens
 snake Isl books coats passports tablets
@@ -1235,7 +1396,9 @@ snake Isl books coats passports tablets
 
 
 
-## 3.7
+## 3.7 / 18
+
+<audio src="./assets/EF1_4ed_SB__03_07.mp3"></audio>
 
 1
 It’s a photo.
@@ -1279,29 +1442,33 @@ They’re pages.
 
 
 
-## 3.8
+## 3.8 / 19
 
-1 Please take out your laptops... All laptops out of
+<audio src="./assets/EF1_4ed_SB__03_08.mp3"></audio>
+
+1 | Please take out your laptops... All laptops out of
 cases, please.
 
-2 Please switch off all mobile phones and electronic
+2 | Please switch off all mobile phones and electronic
 devices.
 
-3 A Excuse me, is this your bag?
-B Oh yes! Thanks very much!
+3 | A Excuse me, is this your bag?
+B | Oh yes! Thanks very much!
 
-4   A   Hi. My name’s Sam Smith. I have a
+4 |   A   Hi. My name’s Sam Smith. I have a
 reservation.
-B   Can I see your passport, please?
+B |   Can I see your passport, please?
 A   Sure, here you are.
 
-5   A   OK, Ms Jones. You’re in room 315. Here’s
+5 |   A   OK, Ms Jones. You’re in room 315. Here’s
 your key.
-B Thank you very much. Er, where’s the lift?
+B | Thank you very much. Er, where’s the lift?
 
 
 
-## 3.9
+## 3.9 / P 131
+
+<audio src="./assets/EF1_4ed_SB__03_09.mp3"></audio>
 
 Oh no!
 Where’s my phone?
@@ -1319,38 +1486,24 @@ I have two credit cards.
 
 
 
-## 3.10
+## 3.10 / 20
 
-1 a cap
-2 a football scarf
-3 a football shirt
-4 a key ring
-5 a mug
-6 a plate
-7 a teddy
-8 a T-shirt
+<audio src="./assets/EF1_4ed_SB__03_10.mp3"></audio>
 
-
-
-## 3.11
-
-Woman   Excuse me. What are those?
-Man They’re T-shirts.
-Woman   How much are they?
-Man They’re £15.
-Woman   And how much are these key rings?
-Man They’re £6.
-Woman   And this mug?
-Man £14.
-Woman   Is that a Manchester United shirt?
-Man No, it’s Arsenal.
-Woman   How much is it?
-Man £25.
-Woman   Oh...no. Thank you. Bye.
+1 | a cap
+2 | a football scarf
+3 | a football shirt
+4 | a key ring
+5 | a mug
+6 | a plate
+7 | a teddy
+8 | a T-shirt
 
 
 
-## 3.12
+## 3.11 / 21
+
+<audio src="./assets/EF1_4ed_SB__03_11.mp3"></audio>
 
 Woman   Excuse me. What are those?
 Man They’re T-shirts.
@@ -1368,7 +1521,29 @@ Woman   Oh...no. Thank you. Bye.
 
 
 
-## 3.13
+## 3.12 / 21
+
+<audio src="./assets/EF1_4ed_SB__03_12.mp3"></audio>
+
+Woman   Excuse me. What are those?
+Man They’re T-shirts.
+Woman   How much are they?
+Man They’re £15.
+Woman   And how much are these key rings?
+Man They’re £6.
+Woman   And this mug?
+Man £14.
+Woman   Is that a Manchester United shirt?
+Man No, it’s Arsenal.
+Woman   How much is it?
+Man £25.
+Woman   Oh...no. Thank you. Bye.
+
+
+
+## 3.13 / 21
+
+<audio src="./assets/EF1_4ed_SB__03_13.mp3"></audio>
 
 Man Excuse me, miss. Is this your
 phone?
@@ -1384,7 +1559,9 @@ Woman   Yes, and a T-shirt!
 
 
 
-## 3.14
+## 3.14 / G 96
+
+<audio src="./assets/EF1_4ed_SB__03_14.mp3"></audio>
 
 What’s this?
 It’s a key.
@@ -1397,28 +1574,34 @@ They’re cats.
 
 
 
-## 3.15
+## 3.15 / 21
+
+<audio src="./assets/EF1_4ed_SB__03_15.mp3"></audio>
 
 mother 161 this that these those the they
 
 
 
-## 3.16
+## 3.16 / 21
 
-1   A   How much is this mug?
-    B   It’s £9.
-2   A   How much is that cap?
-    B   It’s £12.
-3   A   How much are these plates?
-    B   They’re £15.
-4   A   How much are those T-shirts?
-    B   They’re £20.
-5   A   Two caps, please.
-    B   That’s £24.
+<audio src="./assets/EF1_4ed_SB__03_16.mp3"></audio>
+
+1 |   A   How much is this mug?
+    B |   It’s £9.
+2 |   A   How much is that cap?
+    B |   It’s £12.
+3 |   A   How much are these plates?
+    B |   They’re £15.
+4 |   A   How much are those T-shirts?
+    B |   They’re £20.
+5 |   A   Two caps, please.
+    B |   That’s £24.
 
 
 
-## 3.17
+## 3.17 / P 131
+
+<audio src="./assets/EF1_4ed_SB__03_17.mp3"></audio>
 
 How much is this mug?
 How much are these key rings?
@@ -1433,7 +1616,9 @@ there
 
 
 
-## 3.18
+## 3.18 / 22
+
+<audio src="./assets/EF1_4ed_SB__03_18.mp3"></audio>
 
 ten pounds
 fifty pence
@@ -1444,59 +1629,65 @@ twenty-five cents
 
 
 
-## 3.19
+## 3.19 / 22
 
-1 H
+<audio src="./assets/EF1_4ed_SB__03_19.mp3"></audio>
+
+1 | H
 twelve pounds seventy-five
-2 D
+2 | D
 fifteen euros ninety-nine
-3 F
+3 | F
 fifty dollars nineteen
-4 C
+4 | C
 five pounds thirty-five
-5 A
+5 | A
 thirteen dollars twenty-five
-6 G
+6 | G
 three euros twenty
-7 J
+7 | J
 twenty-five cents
-8 I
+8 | I
 one pound fifty
-9 E
+9 | E
 sixty pence
-10 B
+10 | B
 eighty cents
 
 
 
-## 3.20
+## 3.20 / 22
 
-1 A The New York Times, please.
-B Here you are.
-A How much is it?
-B It’s two dollars fifty.
+<audio src="./assets/EF1_4ed_SB__03_20.mp3"></audio>
 
-2 A An umbrella, please.
-B For how much?
-A Fifteen euros, please.
-B Here you are.
-A Thanks.
+1 | A | The New York Times, please.
+B | Here you are.
+A | How much is it?
+B | It’s two dollars fifty.
 
-3 A A memory card, please.
-B Two gigs or four?
-A Two, please. How much is it?
-B Nine dollars forty-nine.
-A Is a credit card OK?
-B Sure.
+2 | A | An umbrella, please.
+B | For how much?
+A | Fifteen euros, please.
+B | Here you are.
+A | Thanks.
 
-4 A A one-way ticket to Oxford, please.
-B Thirty pounds twenty p, please.
-A Here you are.
-B Thank you.
+3 | A | A memory card, please.
+B | Two gigs or four?
+A | Two, please. How much is it?
+B | Nine dollars forty-nine.
+A | Is a credit card OK?
+B | Sure.
+
+4 | A | A one-way ticket to Oxford, please.
+B | Thirty pounds twenty p, please.
+A | Here you are.
+B | Thank you.
 
 
 
-## 3.21
+## 3.21 / 22
+
+<audio src="./assets/EF1_4ed_SB__03_21.mp3"></audio>
 
 tourist /ua/
 snake Is/
@@ -1507,7 +1698,9 @@ coffee camera credit card
 
 
 
-## 3.22
+## 3.22 / 22
+
+<audio src="./assets/EF1_4ed_SB__03_22.mp3"></audio>
 
 The Three Kings
 Menu
@@ -1534,7 +1727,9 @@ Coffee / Tea
 
 
 
-## 3.23
+## 3.23 / 23
+
+<audio src="./assets/EF1_4ed_SB__03_23.mp3"></audio>
 
 Barman  Who's next?
 Rob Can I have a cheese sandwich,
@@ -1551,7 +1746,9 @@ Barman  Thanks. Here’s your change.
 
 
 
-## 3.24
+## 3.24 / 23
+
+<audio src="./assets/EF1_4ed_SB__03_24.mp3"></audio>
 
 Barman  Who’s next?
 Rob Can I have a cheese sandwich,
@@ -1568,7 +1765,9 @@ Barman  Thanks. Here’s your change.
 
 
 
-## 3.25
+## 3.25 / 23
+
+<audio src="./assets/EF1_4ed_SB__03_25.mp3"></audio>
 
 Assistant
 Jenny
@@ -1600,7 +1799,9 @@ cappuccino, and a brownie, please?
 
 
 
-## 3.26
+## 3.26 / 23
+
+<audio src="./assets/EF1_4ed_SB__03_26.mp3"></audio>
 
 Rob Can I have a cheese sandwich
 please?
@@ -1622,27 +1823,33 @@ Jenny   Great idea.
 
 
 
-## 4.1
+## 4.1 / 24
 
-1 a man
-2 a woman
-3 a girl
-4 a boy
+<audio src="./assets/EF1_4ed_SB__04_01.mp3"></audio>
 
-
-
-## 4.2 People and famiy, 1, people
-
-1 a boy
-2 a girl
-3 a man
-4 a woman
-5 children
-6 Friends
+1 | a man
+2 | a woman
+3 | a girl
+4 | a boy
 
 
 
-## 4.3 Irregular plurals
+## 4.2 / V 120 -  People and famiy, 1, people
+
+<audio src="./assets/EF1_4ed_SB__04_02.mp3"></audio>
+
+1 | a boy
+2 | a girl
+3 | a man
+4 | a woman
+5 | children
+6 | Friends
+
+
+
+## 4.3 / V 120 -  Irregular plurals
+
+<audio src="./assets/EF1_4ed_SB__04_03.mp3"></audio>
 
 a child children
 a man   men
@@ -1651,24 +1858,28 @@ a person    people
 
 
 
-## 4.4 2, family
+## 4.4 / V 120 -  2) Family
 
-1 husband
-2 wife
-3 mother
-4 father
-5 son
-6 daughter
-7 brother
-8 sister
-9 grandmother
-10 grandfather
-11 boyfriend
-12 girlfriend
+<audio src="./assets/EF1_4ed_SB__04_04.mp3"></audio>
+
+1 | husband
+2 | wife
+3 | mother
+4 | father
+5 | son
+6 | daughter
+7 | brother
+8 | sister
+9 | grandmother
+10 | grandfather
+11 | boyfriend
+12 | girlfriend
 
 
 
-## 4.5
+## 4.5 / 24
+
+<audio src="./assets/EF1_4ed_SB__04_05.mp3"></audio>
 
 up IaI husband Sunday son mother brother
 cat/ae/ man family bag thanks that
@@ -1677,16 +1888,20 @@ woman
 
 
 
-## 4.6
+## 4.6 / 24
 
-A Is Justin your husband?
-B No, he’s my brother.
+<audio src="./assets/EF1_4ed_SB__04_06.mp3"></audio>
+
+A | Is Justin your husband?
+B | No, he’s my brother.
 C I have a big family. That’s my grandfather.
 D The woman over there is my sister.
 
 
 
-## 4.7
+## 4.7 / 24
+
+<audio src="./assets/EF1_4ed_SB__04_07.mp3"></audio>
 
 A
 M = mum S = Sarah H = husband
@@ -1716,7 +1931,9 @@ C OK, Mum.
 
 
 
-## 4.8
+## 4.8 / 24
+
+<audio src="./assets/EF1_4ed_SB__04_08.mp3"></audio>
 
 M Now, children. Sarah is your babysitter. Be good.
 C OK, Mum.
@@ -1728,7 +1945,9 @@ S Well, your mother isn’t here, is she?
 
 
 
-## 4.9
+## 4.9 / G 98
+
+<audio src="./assets/EF1_4ed_SB__04_09.mp3"></audio>
 
 I’m from Spain. My name is Ana.
 You’re English. Your name is Ben.
@@ -1742,7 +1961,9 @@ Maria.
 
 
 
-## 4.10
+## 4.10 / G 98
+
+<audio src="./assets/EF1_4ed_SB__04_10.mp3"></audio>
 
 This is Jack’s car.
 Ella is Ben’s wife.
@@ -1752,7 +1973,9 @@ This is my parents’ house.
 
 
 
-## 4.11
+## 4.11 / 25
+
+<audio src="./assets/EF1_4ed_SB__04_11.mp3"></audio>
 
 Marina What a lovely card!
 Jane    Yes, it’s from my family.
@@ -1783,7 +2006,9 @@ M   Ah. What kind of dog is he?
 
 
 
-## 4.12
+## 4.12 / P 131
+
+<audio src="./assets/EF1_4ed_SB__04_12.mp3"></audio>
 
 Come in.
 Be good.
@@ -1804,18 +2029,22 @@ Perhaps
 
 
 
-## 4.13
+## 4.13 / 26
 
-1 It’s a Jaguar. It’s English.
-2 It’s a Chevrolet. It’s American.
-3 It’s a Mercedes. It’s German.
-4 It’s a Peugeot. It’s French.
-5 It’s a Ferrari. It’s Italian.
-6 It’s a Honda. It’s Japanese.
+<audio src="./assets/EF1_4ed_SB__04_13.mp3"></audio>
+
+1 | It’s a Jaguar. It’s English.
+2 | It’s a Chevrolet. It’s American.
+3 | It’s a Mercedes. It’s German.
+4 | It’s a Peugeot. It’s French.
+5 | It’s a Ferrari. It’s Italian.
+6 | It’s a Honda. It’s Japanese.
 
 
 
-## 4.14
+## 4.14 / 26
+
+<audio src="./assets/EF1_4ed_SB__04_14.mp3"></audio>
 
 Salesman
 Man
@@ -1850,7 +2079,9 @@ Mum! ...
 
 
 
-## 4.15
+## 4.15 / 26
+
+<audio src="./assets/EF1_4ed_SB__04_15.mp3"></audio>
 
 Salesman
 Man
@@ -1886,43 +2117,49 @@ Mum!
 
 
 
-## 4.16 Adjectives, 1, colours
+## 4.16 / V 121 -  Adjectives: 1) colours
 
-1 black
-2 blue
-3 brown
-4 green
-5 grey
-6 orange
-7 pink
-8 red
-9 white
-10 yellow
+<audio src="./assets/EF1_4ed_SB__04_16.mp3"></audio>
 
-
-
-## 4.17 2, common adjectives
-
-1 big
-2 small
-3 old
-4 new
-5 fast
-6 slow
-7 beautiful
-8 ugly
-9 cheap
-10 expensive
-11 long
-12 short
-13 clean
-14 dirty
-15 easy
-16 difficult
+1 | black
+2 | blue
+3 | brown
+4 | green
+5 | grey
+6 | orange
+7 | pink
+8 | red
+9 | white
+10 | yellow
 
 
 
-## 4.18 positive and negative adjectives
+## 4.17 / V 121 -  2) Common adjectives
+
+<audio src="./assets/EF1_4ed_SB__04_17.mp3"></audio>
+
+1 | big
+2 | small
+3 | old
+4 | new
+5 | fast
+6 | slow
+7 | beautiful
+8 | ugly
+9 | cheap
+10 | expensive
+11 | long
+12 | short
+13 | clean
+14 | dirty
+15 | easy
+16 | difficult
+
+
+
+## 4.18 / V 121 -  positive and negative adjectives
+
+<audio src="./assets/EF1_4ed_SB__04_18.mp3"></audio>
 
 good
 very good
@@ -1935,50 +2172,58 @@ terrible
 
 
 
-## 4.19
+## 4.19 / G 98
 
-1 An Audi is expensive.
+<audio src="./assets/EF1_4ed_SB__04_19.mp3"></audio>
+
+1 | An Audi is expensive.
 It’s fast.
-2 An Audi is an expensive car.
+2 | An Audi is an expensive car.
 It’s a fast car.
-3 They’re old houses.
+3 | They’re old houses.
 My glasses are new.
-4 He’s tall.
+4 | He’s tall.
 She’s tall, too.
 
 
 
-## 4.20
+## 4.20 / 27
 
-1 an American car
+<audio src="./assets/EF1_4ed_SB__04_20.mp3"></audio>
+
+1 | an American car
 American cars
-2 an expensive watch
+2 | an expensive watch
 expensive watches
-3 a big house
+3 | a big house
 big houses
-4 a tall man
+4 | a tall man
 tall men
-5 a long book
+5 | a long book
 long books
-6 a new phone
+6 | a new phone
 new phones
-7 a good friend
+7 | a good friend
 good friends
-8 a beautiful woman
+8 | a beautiful woman
 beautiful women
-9 a small child
+9 | a small child
 small children
 
 
 
-## 4.21
+## 4.21 / 27
+
+<audio src="./assets/EF1_4ed_SB__04_21.mp3"></audio>
 
 car /a:/    fast father park garden are
 horse lo:l  short sport small awful
 
 
 
-## 4.22
+## 4.22 / 27
+
+<audio src="./assets/EF1_4ed_SB__04_22.mp3"></audio>
 
 a big umbrella
 a short email
@@ -1989,17 +2234,21 @@ an expensive watch
 
 
 
-## 4.23
+## 4.23 / 27
 
-1 an ugly house
-2 an easy exercise
-3 my old ID card
-4 good evening
-5 an American friend
+<audio src="./assets/EF1_4ed_SB__04_23.mp3"></audio>
+
+1 | an ugly house
+2 | an easy exercise
+3 | my old ID card
+4 | good evening
+5 | an American friend
 
 
 
-## 4.24
+## 4.24 / P 131
+
+<audio src="./assets/EF1_4ed_SB__04_24.mp3"></audio>
 
 sir
 madam
@@ -2023,11 +2272,13 @@ famous
 
 
 
-## Can you understand these people?
+## 4.25 / 29 - Can you understand these people?
+
+<audio src="./assets/EF1_4ed_SB__04_25.mp3"></audio>
 
 1
 I = interviewer, R = Richard
-1 What’s in your bag?
+1 | What’s in your bag?
 R Er, my coat, and water, and wallet.
 
 2
@@ -2062,46 +2313,52 @@ car.
 
 
 
-## 5.1
+## 5.1 / 30
 
-1 D tea
-2 E cheese
-3 A orange juice
-4 B sandwich
-5 C eggs
+<audio src="./assets/EF1_4ed_SB__05_01.mp3"></audio>
 
-
-
-## 5.2 Food and drink
-
-1 fish
-2 meat
-3 pasta
-4 rice
-5 eggs
-6 yogurt
-7 vegetables
-8 potatoes
-9 salad
-10 fruit
-11 bread
-12 butter
-13 cheese
-14 sugar
-15 a sandwich
-16 cereal
-17 chocolate
-18 coffee
-19 tea
-20 milk
-21 water
-22 orange juice
-23 wine
-24 beer
+1 | D tea
+2 | E cheese
+3 | A orange juice
+4 | B sandwich
+5 | C eggs
 
 
 
-## 5.3
+## 5.2 / V 122 -  Food and drink
+
+<audio src="./assets/EF1_4ed_SB__05_02.mp3"></audio>
+
+1 | fish
+2 | meat
+3 | pasta
+4 | rice
+5 | eggs
+6 | yogurt
+7 | vegetables
+8 | potatoes
+9 | salad
+10 | fruit
+11 | bread
+12 | butter
+13 | cheese
+14 | sugar
+15 | a sandwich
+16 | cereal
+17 | chocolate
+18 | coffee
+19 | tea
+20 | milk
+21 | water
+22 | orange juice
+23 | wine
+24 | beer
+
+
+
+## 5.3 / V 122 - 
+
+<audio src="./assets/EF1_4ed_SB__05_03.mp3"></audio>
 
 Meals
 breakfast
@@ -2114,7 +2371,9 @@ I eat a lot of fruit. I drink tea with milk.
 
 
 
-## 5.4
+## 5.4 / 30
+
+<audio src="./assets/EF1_4ed_SB__05_04.mp3"></audio>
 
 Marta, Italy
 I have breakfast in a great cafe near my office. I have
@@ -2142,7 +2401,9 @@ coffee in my family.
 
 
 
-## 5.5
+## 5.5 / G 100
+
+<audio src="./assets/EF1_4ed_SB__05_05.mp3"></audio>
 
 I have cereal for breakfast.
 I don’t have eggs for breakfast.
@@ -2158,7 +2419,9 @@ They don’t have meat for dinner.
 
 
 
-## 5.6
+## 5.6 / 31
+
+<audio src="./assets/EF1_4ed_SB__05_06.mp3"></audio>
 
 Anna
 My favourite meal of the day is dinner. I usually have
@@ -2168,7 +2431,9 @@ at a restaurant I have a glass of wine.
 
 
 
-## 5.7
+## 5.7 / 31
+
+<audio src="./assets/EF1_4ed_SB__05_07.mp3"></audio>
 
 Will
 My favourite meal of the day is lunch. I’m always
@@ -2188,21 +2453,27 @@ at the cafe I have a croissant and hot chocolate.
 
 
 
-## 5.8
+## 5.8 / 31
+
+<audio src="./assets/EF1_4ed_SB__05_08.mp3"></audio>
 
 jazz    lfr)l   juice vegetables orange
 girl    Igl sugar yogurt eggs
 
 
 
-## 5.9
+## 5.9 / 31
 
-A I’m Jane. I like orange juice and vegetables.
-B I’m Grace. I have eggs, and coffee with sugar.
+<audio src="./assets/EF1_4ed_SB__05_09.mp3"></audio>
+
+A | I’m Jane. I like orange juice and vegetables.
+B | I’m Grace. I have eggs, and coffee with sugar.
 
 
 
-## 5.10
+## 5.10 / P 131
+
+<audio src="./assets/EF1_4ed_SB__05_10.mp3"></audio>
 
 a scientist
 a doctor
@@ -2229,7 +2500,9 @@ a lot of
 
 
 
-## 5.11
+## 5.11 / 32
+
+<audio src="./assets/EF1_4ed_SB__05_11.mp3"></audio>
 
 1
 Eve
@@ -2293,7 +2566,9 @@ That’s good!
 
 
 
-## 5.12
+## 5.12 / G 100
+
+<audio src="./assets/EF1_4ed_SB__05_12.mp3"></audio>
 
 Do I need a ticket?
 Yes, you do.
@@ -2310,27 +2585,31 @@ No, they don’t.
 
 
 
-## 5.13 Common verb phrases, 1
+## 5.13 / V 123 -  Common verb phrases, 1
 
-1 live in a flat
-2 have breakfast
-3 watch TV
-4 listen to the radio
-5 read the newspaper
-6 eat fast food
-7 drink tea
-8 speak English
-9 want a coffee
-10 have a dog
-11 like cats
-12 work in a bank
-13 study Spanish
-14 go to English classes
-15 need a new car
+<audio src="./assets/EF1_4ed_SB__05_13.mp3"></audio>
+
+1 | live in a flat
+2 | have breakfast
+3 | watch TV
+4 | listen to the radio
+5 | read the newspaper
+6 | eat fast food
+7 | drink tea
+8 | speak English
+9 | want a coffee
+10 | have a dog
+11 | like cats
+12 | work in a bank
+13 | study Spanish
+14 | go to English classes
+15 | need a new car
 
 
 
-## 5.14
+## 5.14 / V 123 - 
+
+<audio src="./assets/EF1_4ed_SB__05_14.mp3"></audio>
 
 1
 2
@@ -2366,7 +2645,9 @@ a new car   need a new car
 
 
 
-## 5.15
+## 5.15 / 33
+
+<audio src="./assets/EF1_4ed_SB__05_15.mp3"></audio>
 
 Taxi driver
 Eve
@@ -2415,7 +2696,9 @@ B5?
 
 
 
-## 5.16
+## 5.16 / 33
+
+<audio src="./assets/EF1_4ed_SB__05_16.mp3"></audio>
 
 Announcement This is the final call for flight BA641
 to London Heathrow. Would all
@@ -2433,40 +2716,48 @@ Wendy   Oh, hello!
 
 
 
-## 5.17
+## 5.17 / 33
+
+<audio src="./assets/EF1_4ed_SB__05_17.mp3"></audio>
 
 witch /w/   want    work when where
 vase    /v/ very    have live TV
 
 
 
-## 5.18
+## 5.18 / 33
+
+<audio src="./assets/EF1_4ed_SB__05_18.mp3"></audio>
 
 1
-A Do you live in a flat?
-B No, I don't. I live in a house.
+A | Do you live in a flat?
+B | No, I don't. I live in a house.
 
 2
-A Do you have a big family?
-B Yes, I do. I have three sisters.
+A | Do you have a big family?
+B | Yes, I do. I have three sisters.
 
 3
-A Do you watch a lot of TV?
-B No, I don’t. I read books.
+A | Do you watch a lot of TV?
+B | No, I don’t. I read books.
 
 
 
-## 5.19
+## 5.19 / 33
 
-1 I work in a cafe.
-2 I eat a lot of fruit.
-3 Do you need an umbrella?
-4 Do you have a cat?
-5 I want a sandwich.
+<audio src="./assets/EF1_4ed_SB__05_19.mp3"></audio>
+
+1 | I work in a cafe.
+2 | I eat a lot of fruit.
+3 | Do you need an umbrella?
+4 | Do you have a cat?
+5 | I want a sandwich.
 
 
 
-## 5.20
+## 5.20 / P 131
+
+<audio src="./assets/EF1_4ed_SB__05_20.mp3"></audio>
 
 a writer
 a taxi driver
@@ -2490,7 +2781,9 @@ What a nice surprise!
 
 
 
-## 5.21
+## 5.21 / 34
+
+<audio src="./assets/EF1_4ed_SB__05_21.mp3"></audio>
 
 1
 Rob I’m tired. What time is it?
@@ -2515,7 +2808,9 @@ Rob I know. I’m really sorry.
 
 
 
-## 5.22
+## 5.22 / 34
+
+<audio src="./assets/EF1_4ed_SB__05_22.mp3"></audio>
 
 1
 Rob I’m tired. What time is   it?
@@ -2540,7 +2835,9 @@ Rob I know. I’m really sorry.
 
 
 
-## 5.23
+## 5.23 / 34
+
+<audio src="./assets/EF1_4ed_SB__05_23.mp3"></audio>
 
 It’s three o’clock.
 It’s five past three.
@@ -2557,24 +2854,30 @@ It’s five to four.
 
 
 
-## 5.24
+## 5.24 / 34
 
-1 It’s twenty to nine.
-2 It’s quarter past seven.
-3 It’s five past two.
-4 It’s twelve o’clock.
-5 It’s half past eight.
-6 It’s quarter past eleven.
+<audio src="./assets/EF1_4ed_SB__05_24.mp3"></audio>
+
+1 | It’s twenty to nine.
+2 | It’s quarter past seven.
+3 | It’s five past two.
+4 | It’s twelve o’clock.
+5 | It’s half past eight.
+6 | It’s quarter past eleven.
 
 
 
-## 5.25
+## 5.25 / 35
+
+<audio src="./assets/EF1_4ed_SB__05_25.mp3"></audio>
 
 clock lol what Oxford sorry coffee
 
 
 
-## 5.26
+## 5.26 / 35
+
+<audio src="./assets/EF1_4ed_SB__05_26.mp3"></audio>
 
 eight
 half
@@ -2589,30 +2892,36 @@ write
 
 
 
-## 5.27
+## 5.27 / 35
 
-A What time is it?
-B It’s half past two.
+<audio src="./assets/EF1_4ed_SB__05_27.mp3"></audio>
 
-A Is the meeting on Wednesday?
-B I don’t know.
+A | What time is it?
+B | It’s half past two.
 
-A Listen and write five sentences.
-B Oh no! I’m tired.
+A | Is the meeting on Wednesday?
+B | I don’t know.
 
-
-
-## 5.28
-
-1 I’m tired.
-2 I’m cold.
-3 I’m hungry.
-4 I’m hot.
-5 I’m thirsty.
+A | Listen and write five sentences.
+B | Oh no! I’m tired.
 
 
 
-## 5.29
+## 5.28 / 35
+
+<audio src="./assets/EF1_4ed_SB__05_28.mp3"></audio>
+
+1 | I’m tired.
+2 | I’m cold.
+3 | I’m hungry.
+4 | I’m hot.
+5 | I’m thirsty.
+
+
+
+## 5.29 / 35
+
+<audio src="./assets/EF1_4ed_SB__05_29.mp3"></audio>
 
 a3
 I’m hungry.
@@ -2636,7 +2945,9 @@ It’s 35 degrees!
 
 
 
-## 5.30
+## 5.30 / 35
+
+<audio src="./assets/EF1_4ed_SB__05_30.mp3"></audio>
 
 Amy Hi. Sorry I’m late. What time’s the show?
 Jenny Don’t worry. It’s at eight o’clock.
@@ -2654,7 +2965,9 @@ Amy Oh, OK. Let’s go.
 
 
 
-## 5.31
+## 5.31 / 35
+
+<audio src="./assets/EF1_4ed_SB__05_31.mp3"></audio>
 
 Rob I need to go.
 WomanYou need to hurry.
@@ -2673,22 +2986,26 @@ Amy OK. Let’s go.
 
 
 
-## 6.1 Jobs and places of work 1, what do they do?
+## 6.1 / V 124 -  Jobs and places of work 1, what do they do?
 
-1 a teacher
-2 a doctor
-3 a nurse
-4 a journalist
-5 a waiter / a waitress
-6 a shop assistant
-7 a receptionist
-8 a policeman / a policewoman
-9 a factory worker
-10 a taxi driver
+<audio src="./assets/EF1_4ed_SB__06_01.mp3"></audio>
+
+1 | a teacher
+2 | a doctor
+3 | a nurse
+4 | a journalist
+5 | a waiter / a waitress
+6 | a shop assistant
+7 | a receptionist
+8 | a policeman / a policewoman
+9 | a factory worker
+10 | a taxi driver
 
 
 
-## 6.2
+## 6.2 / V 124 - 
+
+<audio src="./assets/EF1_4ed_SB__06_02.mp3"></audio>
 
 I work for an American company.
 I’m at university.
@@ -2700,20 +3017,24 @@ I’m retired.
 
 
 
-## 6.3 2, where do they work?
+## 6.3 / V 124 -  2) Where do they work?
 
-1 in a hospital
-2 in a shop
-3 in a restaurant
-4 in an office
-5 in a school
-6 in a factory
-7 at home
-8 in the street
+<audio src="./assets/EF1_4ed_SB__06_03.mp3"></audio>
+
+1 | in a hospital
+2 | in a shop
+3 | in a restaurant
+4 | in an office
+5 | in a school
+6 | in a factory
+7 | at home
+8 | in the street
 
 
 
-## 6.4
+## 6.4 / 36
+
+<audio src="./assets/EF1_4ed_SB__06_04.mp3"></audio>
 
 Julia Who’s that over there?
 Sarah It’s Anna, you know, the intelligent girl.
@@ -2745,7 +3066,9 @@ beautiful...
 
 
 
-## 6.5
+## 6.5 / G 102
+
+<audio src="./assets/EF1_4ed_SB__06_05.mp3"></audio>
 
 He works.
 He doesn’t work.
@@ -2766,58 +3089,64 @@ No, it doesn’t.
 
 
 
-## 6.6
+## 6.6 / 37
+
+<audio src="./assets/EF1_4ed_SB__06_06.mp3"></audio>
 
 does finishes goes likes lives teaches
 watches writes
 
 
 
-## 6.7
+## 6.7 / 37
 
-1 I live in New York.
+<audio src="./assets/EF1_4ed_SB__06_07.mp3"></audio>
+
+1 | I live in New York.
 He...
 He lives in New York.
 
-2 I finish work at 8.00.
+2 | I finish work at 8.00.
 She...
 She finishes work at 8.00.
 
-3 I teach English.
+3 | I teach English.
 My brother...
 My brother teaches English.
 
-4 I watch CNN.
+4 | I watch CNN.
 She...
 She watches CNN.
 
-5 I write books.
+5 | I write books.
 He...
 He writes books.
 
-6 I go to university.
+6 | I go to university.
 John...
 John goes to university.
 
-7 I don’t eat meat.
+7 | I don’t eat meat.
 My sister...
 My sister doesn’t eat meat.
 
-8 I don’t read newspapers.
+8 | I don’t read newspapers.
 My husband...
 My husband doesn’t read newspapers.
 
-9 Do you work?
+9 | Do you work?
 He...
 Does he work?
 
-10 Do you drink coffee?
+10 | Do you drink coffee?
 She...
 Does she drink coffee?
 
 
 
-## 6.8 Do you speak English at work?
+## 6.8 / 37 - Do you speak English at work?
+
+<audio src="./assets/EF1_4ed_SB__06_08.mp3"></audio>
 
 What do these people have in common? A banker in
 Mexico City, a barman in a five-star hotel in Moscow,
@@ -2844,7 +3173,9 @@ English, because it’s the language of the company.
 
 
 
-## 6.9
+## 6.9 / 37
+
+<audio src="./assets/EF1_4ed_SB__06_09.mp3"></audio>
 
 What does he do?
 He’s a nurse.
@@ -2857,7 +3188,9 @@ Yes, he does.
 
 
 
-## 6.10
+## 6.10 / 37
+
+<audio src="./assets/EF1_4ed_SB__06_10.mp3"></audio>
 
 What does he do?
 He’s a nurse.
@@ -2870,7 +3203,9 @@ Yes, he does.
 
 
 
-## 6.11
+## 6.11 / P 131
+
+<audio src="./assets/EF1_4ed_SB__06_11.mp3"></audio>
 
 What does she do?
 Where does he teach?
@@ -2896,7 +3231,9 @@ Why? Because...
 
 
 
-## 6.12
+## 6.12 / 38
+
+<audio src="./assets/EF1_4ed_SB__06_12.mp3"></audio>
 
 I = interviewer H = Hannah
 I Hannah works for the BBC. She has a son Kit
@@ -2931,47 +3268,53 @@ work!
 
 
 
-## 6.13
+## 6.13 / 38
 
-1 What time do you usually get up?
-2 Do you usually feel tired?
-3 Do you have a shower or a bath in the morning?
-4 Do you always have breakfast? Where?
+<audio src="./assets/EF1_4ed_SB__06_13.mp3"></audio>
 
-5 What do you have for breakfast?
-6 What time do you go to work?
-7 Do you usually need to hurry in the morning?
-8 Do you like mornings? Why?
+1 | What time do you usually get up?
+2 | Do you usually feel tired?
+3 | Do you have a shower or a bath in the morning?
+4 | Do you always have breakfast? Where?
+
+5 | What do you have for breakfast?
+6 | What time do you go to work?
+7 | Do you usually need to hurry in the morning?
+8 | Do you like mornings? Why?
 
 
 
-## 6.14 A typical day
+## 6.14 / V 125 -  A typical day
+
+<audio src="./assets/EF1_4ed_SB__06_14.mp3"></audio>
 
 In the morning
-1 get up
-2 have breakfast
-3 have a shower
-4 go to work
-5 have a coffee
+1 | get up
+2 | have breakfast
+3 | have a shower
+4 | go to work
+5 | have a coffee
 
 in the afternoon
-6 have lunch
-7 finish work
-8 go home
-9 go shopping
-10 go to the gym
+6 | have lunch
+7 | finish work
+8 | go home
+9 | go shopping
+10 | go to the gym
 
 in the evening
-11 make dinner
-12 have dinner
-13 do housework
-14 watch TV
-15 have a bath
-16 go to bed
+11 | make dinner
+12 | have dinner
+13 | do housework
+14 | watch TV
+15 | have a bath
+16 | go to bed
 
 
 
-## 6.15
+## 6.15 / V 125 - 
+
+<audio src="./assets/EF1_4ed_SB__06_15.mp3"></audio>
 
 Lisa has lunch at one o’clock.
 She finishes work at six o’clock.
@@ -2988,7 +3331,9 @@ She has dinner at half past eight.
 
 
 
-## 6.16
+## 6.16 / G 102
+
+<audio src="./assets/EF1_4ed_SB__06_16.mp3"></audio>
 
 I always have breakfast.
 They usually finish work at 5.00.
@@ -2999,14 +3344,18 @@ What time do you usually get up?
 
 
 
-## 6.17
+## 6.17 / 39
+
+<audio src="./assets/EF1_4ed_SB__06_17.mp3"></audio>
 
 yacht/j/ yes you young yellow
 /ju:/ usually student music beautiful
 
 
 
-## 6.18
+## 6.18 / 39
+
+<audio src="./assets/EF1_4ed_SB__06_18.mp3"></audio>
 
 What time do you usually have lunch?
 At half past one.
@@ -3017,7 +3366,9 @@ At half past eleven.
 
 
 
-## 6.19
+## 6.19 / P 131
+
+<audio src="./assets/EF1_4ed_SB__06_19.mp3"></audio>
 
 Are you a morning person?
 What time do you get up?
@@ -3036,11 +3387,13 @@ It’s delicious.
 
 
 
-## 6.20
+## 6.20 / 41
+
+<audio src="./assets/EF1_4ed_SB__06_20.mp3"></audio>
 
 1
 I = interviewer, J = John
-1 What do you usually have for breakfast?
+1 | What do you usually have for breakfast?
 J Um, just toast and a cup of tea, maybe.
 
 2
@@ -3059,7 +3412,7 @@ sixteen.
 4
 I = interviewer, S = Susan
 I What do you do?
-5 I’m retired.
+5 | I’m retired.
 I Do you like being retired?
 S I do...very much.
 
@@ -3076,7 +3429,9 @@ K At the weekends, much later. About ten a.m.
 
 
 
-## 7.1
+## 7.1 / 42
+
+<audio src="./assets/EF1_4ed_SB__07_01.mp3"></audio>
 
 Three out of four British people do the same
 thing every weekend!
@@ -3091,7 +3446,9 @@ leave the house!
 
 
 
-## 7.2
+## 7.2 / 42
+
+<audio src="./assets/EF1_4ed_SB__07_02.mp3"></audio>
 
 I = interviewer P = Polly
 I Do you go out on Friday night?
@@ -3128,34 +3485,40 @@ P Friday night, definitely!
 
 
 
-## 7.3
+## 7.3 / 42
 
-1 My husband Andrew and I always go out for a
+<audio src="./assets/EF1_4ed_SB__07_03.mp3"></audio>
+
+1 | My husband Andrew and I always go out for a
 drink or for dinner.
-2 We sometimes meet friends there, too.
-3 In the evening we usually stay at home and watch
+2 | We sometimes meet friends there, too.
+3 | In the evening we usually stay at home and watch
 TV.
 
 
 
-## 7.4 Common verb phrases 2, 1, free time
+## 7.4 / V 126 -  Common verb phrases 2, 1, free time
 
-1 go out
-2 play computer games
-3 do sport
-4 go to the beach
-5 stay at home
-6 play tennis
-7 walk
-8 play the piano
-9 swim
-10 meet friends
-11 relax
-12 travel
+<audio src="./assets/EF1_4ed_SB__07_04.mp3"></audio>
+
+1 | go out
+2 | play computer games
+3 | do sport
+4 | go to the beach
+5 | stay at home
+6 | play tennis
+7 | walk
+8 | play the piano
+9 | swim
+10 | meet friends
+11 | relax
+12 | travel
 
 
 
-## 7.5
+## 7.5 / G 104
+
+<audio src="./assets/EF1_4ed_SB__07_05.mp3"></audio>
 
 Are you tired?
 Are you a student?
@@ -3169,7 +3532,9 @@ Who are you?
 
 
 
-## 7.6
+## 7.6 / G 104
+
+<audio src="./assets/EF1_4ed_SB__07_06.mp3"></audio>
 
 Do you go out on Friday nights?
 Where do you go?
@@ -3181,7 +3546,9 @@ Who does she live with?
 
 
 
-## 7.7
+## 7.7 / 43
+
+<audio src="./assets/EF1_4ed_SB__07_07.mp3"></audio>
 
 witch /w/ what when why walk watch always
 house/h/ how home husband holidays who
@@ -3190,7 +3557,9 @@ owl laul how town out mountains
 
 
 
-## 7.8
+## 7.8 / 43
+
+<audio src="./assets/EF1_4ed_SB__07_08.mp3"></audio>
 
 What do you do at the weekend?
 I walk, or I watch TV.
@@ -3206,7 +3575,9 @@ I go to the mountains near my town.
 
 
 
-## 7.9
+## 7.9 / P 132
+
+<audio src="./assets/EF1_4ed_SB__07_09.mp3"></audio>
 
 per cent
 do the same thing
@@ -3228,7 +3599,9 @@ definitely
 
 
 
-## 7.10
+## 7.10 / 44
+
+<audio src="./assets/EF1_4ed_SB__07_10.mp3"></audio>
 
 Director
 Scarlett
@@ -3274,7 +3647,9 @@ her.
 
 
 
-## 7.11
+## 7.11 / 44
+
+<audio src="./assets/EF1_4ed_SB__07_11.mp3"></audio>
 
 1
 Scarlett    We need to talk.
@@ -3298,7 +3673,9 @@ Director    Go to the windows. Open them.
 
 
 
-## 7.12
+## 7.12 / G 104
+
+<audio src="./assets/EF1_4ed_SB__07_12.mp3"></audio>
 
 Come here!
 Sit down.
@@ -3309,7 +3686,9 @@ Don’t be late.
 
 
 
-## 7.13
+## 7.13 / G 104
+
+<audio src="./assets/EF1_4ed_SB__07_13.mp3"></audio>
 
 I’m your teacher.
 You’re beautiful.
@@ -3329,28 +3708,32 @@ I want to read them.
 
 
 
-## 7.14
+## 7.14 / 44
 
-1 I me
-2 you   you
-3 he    him
-4 she   her
-5 it    it
-6 we    us
-7 they  them
+<audio src="./assets/EF1_4ed_SB__07_14.mp3"></audio>
+
+1 | I me
+2 | you   you
+3 | he    him
+4 | she   her
+5 | it    it
+6 | we    us
+7 | they  them
 
 
 
-## 7.15
+## 7.15 / 44
 
-1 I love Scarlett.
-2 I don’t like dogs.
-3 I like your house.
-4 Wait for Daniel.
-5 Read the book.
-6 I love cats.
-7 Speak to your mother.
-8 I don’t like your brother.
+<audio src="./assets/EF1_4ed_SB__07_15.mp3"></audio>
+
+1 | I love Scarlett.
+2 | I don’t like dogs.
+3 | I like your house.
+4 | Wait for Daniel.
+5 | Read the book.
+6 | I love cats.
+7 | Speak to your mother.
+8 | I don’t like your brother.
 I love her.
 I don’t like them.
 I like it.
@@ -3362,76 +3745,86 @@ I don’t like him.
 
 
 
-## 7.16
+## 7.16 / 45
 
-1 D action films
-2 C animations
-3 E comedies
-4 F dramas
-5 A horror films
-6 G science fiction films
-7 B westerns
+<audio src="./assets/EF1_4ed_SB__07_16.mp3"></audio>
 
-
-
-## 7.17
-
-1 action films
-2 animations
-3 comedies
-4 dramas
-5 horror films
-6 science fiction films
-7 westerns
+1 | D action films
+2 | C animations
+3 | E comedies
+4 | F dramas
+5 | A horror films
+6 | G science fiction films
+7 | B westerns
 
 
 
-## 7.18
+## 7.17 / 45
+
+<audio src="./assets/EF1_4ed_SB__07_17.mp3"></audio>
+
+1 | action films
+2 | animations
+3 | comedies
+4 | dramas
+5 | horror films
+6 | science fiction films
+7 | westerns
+
+
+
+## 7.18 / 45
+
+<audio src="./assets/EF1_4ed_SB__07_18.mp3"></audio>
 
 1
-A Excuse me. Can you answer a few questions?
-B Sure.
-A Do you like the Alien films?
-B I like the first one. It’s great. I don’t know the
+A | Excuse me. Can you answer a few questions?
+B | Sure.
+A | Do you like the Alien films?
+B | I like the first one. It’s great. I don’t know the
 others.
-A OK, thanks.
+A | OK, thanks.
 
 2
-A Do you like the Alien films?
+A | Do you like the Alien films?
 C Yes. They’re brilliant.
-A Do you like Charlize Theron in Alien:
+A | Do you like Charlize Theron in Alien:
 Prometheus'?
 C She’s OK, but I prefer Sigourney Weaver.
 
 3
-A Do you like the Alien films?
+A | Do you like the Alien films?
 D No, I hate science fiction films. I think they’re
 awful.
 
 4
-A Do you like the Alien films?
+A | Do you like the Alien films?
 E Yes, I love them. And the actors are fantastic.
-A Do you like Michael Fassbender?
+A | Do you like Michael Fassbender?
 E I really like him. I think he’s great.
 
 5
-A Do you like the Alien films?
+A | Do you like the Alien films?
 F Sorry, I don’t know them.
 
 
 
-## 7.19
+## 7.19 / 45
 
-A Do you like Sigourney Weaver?
-B Yes, I do. She’s very good.
-A Do you like horror films?
+<audio src="./assets/EF1_4ed_SB__07_19.mp3"></audio>
+
+A | Do you like Sigourney Weaver?
+B | Yes, I do. She’s very good.
+A | Do you like horror films?
 C No, I don’t like them. I prefer dramas.
-A Do you like Michael Fassbender?
+A | Do you like Michael Fassbender?
 D Yes, I like him a lot. I think he’s great.
 
 
 
-## 7.20
+## 7.20 / P 132
+
+<audio src="./assets/EF1_4ed_SB__07_20.mp3"></audio>
 
 a film director
 an actor
@@ -3453,7 +3846,9 @@ nothing
 
 
 
-## 7.21 Months and ordinal numbers, 1, months
+## 7.21 / V 127 -  Months and ordinal numbers, 1, months
+
+<audio src="./assets/EF1_4ed_SB__07_21.mp3"></audio>
 
 January
 February
@@ -3470,25 +3865,29 @@ December
 
 
 
-## 7.22
+## 7.22 / 46
 
-1 J.K. Rowling’s first name is Joanne.
-2 The second meal of the day is lunch.
-3 The third book in the Lord of the Rings trilogy is
+<audio src="./assets/EF1_4ed_SB__07_22.mp3"></audio>
+
+1 | J.K. Rowling’s first name is Joanne.
+2 | The second meal of the day is lunch.
+3 | The third book in the Lord of the Rings trilogy is
 The Return of the King.
-4 The fourth letter on the top row of a keyboard is R.
-5 The city with a famous street called Fifth Avenue is
+4 | The fourth letter on the top row of a keyboard is R.
+5 | The city with a famous street called Fifth Avenue is
 New York.
-6 The sixth president of the USA was John Quincy
+6 | The sixth president of the USA was John Quincy
 Adams.
-7 The seventh Star Wars film is The Force Awakens.
-8 The eighth month of the year is August.
-9 The Ninth Legion was a group of soldiers from
+7 | The seventh Star Wars film is The Force Awakens.
+8 | The eighth month of the year is August.
+9 | The Ninth Legion was a group of soldiers from
 Rome.
 
 
 
-## 7.23 2, ordinal numbers
+## 7.23 / V 127 -  2) Ordinal numbers
+
+<audio src="./assets/EF1_4ed_SB__07_23.mp3"></audio>
 
 first
 second
@@ -3513,7 +3912,9 @@ twentieth
 
 
 
-## 7.24
+## 7.24 / V 127 - 
+
+<audio src="./assets/EF1_4ed_SB__07_24.mp3"></audio>
 
 twenty-first
 twenty-second
@@ -3529,13 +3930,17 @@ thirty-first
 
 
 
-## 7.25
+## 7.25 / 46
+
+<audio src="./assets/EF1_4ed_SB__07_25.mp3"></audio>
 
 thumb/0/ three Thursday third seventh ninth
 
 
 
-## 7.26
+## 7.26 / 46
+
+<audio src="./assets/EF1_4ed_SB__07_26.mp3"></audio>
 
 one first
 three third
@@ -3550,7 +3955,9 @@ thirty-one  thirty-first
 
 
 
-## 7.27
+## 7.27 / 47
+
+<audio src="./assets/EF1_4ed_SB__07_27.mp3"></audio>
 
 Rob What’s the date today?
 Alan I think it’s the 2nd of June.
@@ -3560,7 +3967,9 @@ Rob Oh no! It’s my dad’s birthday.
 
 
 
-## 7.28
+## 7.28 / 47
+
+<audio src="./assets/EF1_4ed_SB__07_28.mp3"></audio>
 
 Rob Dad!
 Henry Rob, hi!
@@ -3576,7 +3985,9 @@ wine...
 
 
 
-## 7.29
+## 7.29 / 47
+
+<audio src="./assets/EF1_4ed_SB__07_29.mp3"></audio>
 
 the first of January
 the second of February
@@ -3593,7 +4004,9 @@ the thirty-first of December
 
 
 
-## 7.30
+## 7.30 / 47
+
+<audio src="./assets/EF1_4ed_SB__07_30.mp3"></audio>
 
 Jenny Hello?
 Rob Hello. Is that, uh, Jennifer Zielinski?
@@ -3623,7 +4036,9 @@ Jenny   Bye.
 
 
 
-## 7.31
+## 7.31 / 47
+
+<audio src="./assets/EF1_4ed_SB__07_31.mp3"></audio>
 
 Rob What’s the date today?
 Rob Are you sure?
@@ -3644,59 +4059,67 @@ Jenny   Talk to you on Tuesday.
 
 
 
-## 8.1
+## 8.1 / 48
 
-1 In some states in the USA, for example Kansas
+<audio src="./assets/EF1_4ed_SB__08_01.mp3"></audio>
+
+1 | In some states in the USA, for example Kansas
 and Idaho, you can have a driving licence when
 you’re 14.
 
-2 In some cities in Mexico you don’t need to take a
+2 | In some cities in Mexico you don’t need to take a
 test to get a driving licence, you only need to be
 
 
-3 In the UK you can drive when you are 17. First you
+3 | In the UK you can drive when you are 17. First you
 need to pass a theory test and then you have a
 practical test. 47% of people pass first time.
 
-4 In South Africa the driving test is very difficult. Only
+4 | In South Africa the driving test is very difficult. Only
 3% pass first time.
 
-5 In Pakistan the driving test is very easy and not
+5 | In Pakistan the driving test is very easy and not
 many people fail. You can take the theory test and
 the practical test on the same day.
 
 
 
-## 8.2
+## 8.2 / 48
 
-1 You can have a driving licence when you’re 14.
-2 You don’t need to take a test to get a driving
+<audio src="./assets/EF1_4ed_SB__08_02.mp3"></audio>
+
+1 | You can have a driving licence when you’re 14.
+2 | You don’t need to take a test to get a driving
 licence.
-3 You need to pass a theory test and then you have
+3 | You need to pass a theory test and then you have
 a practical test.
-4 The driving test is very difficult.
-5 The driving test is very easy and not many people
+4 | The driving test is very difficult.
+5 | The driving test is very easy and not many people
 fail.
 
 
 
-## 8.3
+## 8.3 / 48
 
-C1  The theory test is very difficult. I can practise
+<audio src="./assets/EF1_4ed_SB__08_03.mp3"></audio>
+
+C1 |  The theory test is very difficult. I can practise
 online, but I can’t answer the questions. ‘Can you
 park on a yellow line?’ I don’t know!
 
-B2  A pass in the theory - fantastic! My first
+B2 |  A pass in the theory - fantastic! My first
 lesson with Dad - total disaster! Now Dad says I
 can’t practise in his car.
 
-A3  Dad’s a terrible teacher. I need some
+A3 |  Dad’s a terrible teacher. I need some
 practical lessons with a good driving instructor!
 Friends, can you help?
 
 
 
-## 8.4
+## 8.4 / 48
+
+<audio src="./assets/EF1_4ed_SB__08_04.mp3"></audio>
 
 Instructor
 Anna
@@ -3729,7 +4152,9 @@ It’s Anna Jones...
 
 
 
-## 8.5
+## 8.5 / 49
+
+<audio src="./assets/EF1_4ed_SB__08_05.mp3"></audio>
 
 Examiner
 Anna
@@ -3761,7 +4186,9 @@ need more driving lessons.
 
 
 
-## 8.6
+## 8.6 / G 106
+
+<audio src="./assets/EF1_4ed_SB__08_06.mp3"></audio>
 
 I can park here.
 I can’t park there.
@@ -3785,89 +4212,101 @@ No, they can’t.
 
 
 
-## 8.7
+## 8.7 / 49
+
+<audio src="./assets/EF1_4ed_SB__08_07.mp3"></audio>
 
 computer /a/
-A Where can I park?
-B You can park here,
+A | Where can I park?
+B | You can park here,
 cat /ae/
-B Can I park here?
-A Yes, you can.
+B | Can I park here?
+A | Yes, you can.
 car/a:/
-A No, you can’t.
-A You can’t park here.
+A | No, you can’t.
+A | You can’t park here.
 
 
 
-## 8.8
+## 8.8 / 49
 
-1 We can park here.
+<audio src="./assets/EF1_4ed_SB__08_08.mp3"></audio>
+
+1 | We can park here.
 We can’t park here.
 
-2 I can help you.
+2 | I can help you.
 I can’t help you.
 
-3 You can sit here.
+3 | You can sit here.
 You can’t sit here.
 
-4 Max can go with me.
+4 | Max can go with me.
 Max can’t go with me.
 
 
 
-## 8.9
+## 8.9 / 49
 
-1 We can park here.
-2 I can’t help you.
-3 You can’t sit here.
-4 Max can go with me.
+<audio src="./assets/EF1_4ed_SB__08_09.mp3"></audio>
+
+1 | We can park here.
+2 | I can’t help you.
+3 | You can’t sit here.
+4 | Max can go with me.
 
 
 
-## 8.10
+## 8.10 / 49
 
-1 A Excuse me, can I sit here?
-B   Er, yes, I think it’s free.
-A   Thanks.
+<audio src="./assets/EF1_4ed_SB__08_10.mp3"></audio>
 
-2 A Can I help you?
-B   Do you have this T-shirt in large?
-A   Just a moment. Sorry, we only have small
+1 | A | Excuse me, can I sit here?
+B |   Er, yes, I think it’s free.
+A |   Thanks.
+
+2 | A | Can I help you?
+B |   Do you have this T-shirt in large?
+A |   Just a moment. Sorry, we only have small
     and medium at the moment. I can phone and
     see if they have a large in another store?
-B   No, that’s OK, thanks.
+B |   No, that’s OK, thanks.
 
-3 A Are you ready to order?
-B Yes, can I have the burger but with salad, not
+3 | A | Are you ready to order?
+B | Yes, can I have the burger but with salad, not
 chips?
-A   Yes, madam, that’s fine. And for you, sir?
-B   The pasta, please.
-A   And to drink?
+A |   Yes, madam, that’s fine. And for you, sir?
+B |   The pasta, please.
+A |   And to drink?
 
-4 A Hey! You can’t sing here.
-B   Why not?
-A   Because you need a permit.
-B   Where can 1 get a permit?
-A   You need to go online and look for...
-
-
-
-## 8.11
-
-1 You can’t swim here.
-2 You can pay by credit card here.
-3 You can’t use your mobile phone here.
-4 You can park here.
-5 You can have a coffee here.
-6 You can use the internet here.
-7 You can’t take photos here.
-8 You can’t play football here.
-9 You can change money here.
-10 You can’t drive fast here.
+4 | A | Hey! You can’t sing here.
+B |   Why not?
+A |   Because you need a permit.
+B |   Where can 1 get a permit?
+A |   You need to go online and look for...
 
 
 
-## 8.12
+## 8.11 / 49
+
+<audio src="./assets/EF1_4ed_SB__08_11.mp3"></audio>
+
+1 | You can’t swim here.
+2 | You can pay by credit card here.
+3 | You can’t use your mobile phone here.
+4 | You can park here.
+5 | You can have a coffee here.
+6 | You can use the internet here.
+7 | You can’t take photos here.
+8 | You can’t play football here.
+9 | You can change money here.
+10 | You can’t drive fast here.
+
+
+
+## 8.12 / P 132
+
+<audio src="./assets/EF1_4ed_SB__08_12.mp3"></audio>
 
 a driving licence
 a theory test
@@ -3889,30 +4328,34 @@ Yes, of course.
 
 
 
-## 8.13 Activities
+## 8.13 / V 128 -  Activities
 
-1 buying clothes
-2 camping
-3 cooking
-4 cycling
-5 doing yoga
-6 eating out
-7 flying
-8 going for a walk
-9 going to the cinema
-10 painting
-11 reading
-12 running
-13 shopping
-14 singing
-15 sleeping
-16 swimming
-17 travelling
-18 watching TV series
+<audio src="./assets/EF1_4ed_SB__08_13.mp3"></audio>
+
+1 | buying clothes
+2 | camping
+3 | cooking
+4 | cycling
+5 | doing yoga
+6 | eating out
+7 | flying
+8 | going for a walk
+9 | going to the cinema
+10 | painting
+11 | reading
+12 | running
+13 | shopping
+14 | singing
+15 | sleeping
+16 | swimming
+17 | travelling
+18 | watching TV series
 
 
 
-## 8.14
+## 8.14 / G 106
+
+<audio src="./assets/EF1_4ed_SB__08_14.mp3"></audio>
 
 What do you like doing at the weekend?
 I love cooking.
@@ -3922,7 +4365,9 @@ I hate getting up early.
 
 
 
-## 8.15
+## 8.15 / 51
+
+<audio src="./assets/EF1_4ed_SB__08_15.mp3"></audio>
 
 bull lul book cook look good
 boot/u:/ too food soon school
@@ -3930,20 +4375,24 @@ singer lr\l going doing swimming thing
 
 
 
-## 8.16
+## 8.16 / 51
 
-A I love cooking. What about you?
-B I like cooking, too.
-A Do you like reading books?
-B Yes, I like reading good books.
-A Do you like cycling?
-B Yes, I do. I love cycling!
-A Are you single?
-B No, sorry.
+<audio src="./assets/EF1_4ed_SB__08_16.mp3"></audio>
+
+A | I love cooking. What about you?
+B | I like cooking, too.
+A | Do you like reading books?
+B | Yes, I like reading good books.
+A | Do you like cycling?
+B | Yes, I do. I love cycling!
+A | Are you single?
+B | No, sorry.
 
 
 
-## 8.17
+## 8.17 / 51
+
+<audio src="./assets/EF1_4ed_SB__08_17.mp3"></audio>
 
 Chris I like cooking alone. I don’t like having other
 people in the kitchen. But I like eating with friends,
@@ -3979,7 +4428,9 @@ but with the windows closed of course!
 
 
 
-## 8.18
+## 8.18 / P 132
+
+<audio src="./assets/EF1_4ed_SB__08_18.mp3"></audio>
 
 horrible
 peaceful
@@ -3992,16 +4443,17 @@ very loudly
 
 
 # Revise & Check 7&8
-Can you understand these
-people?
+Can you understand these people?
 
 
 
-## 8.19
+## 8.19 / 53
+
+<audio src="./assets/EF1_4ed_SB__08_19.mp3"></audio>
 
 1
 I = interviewer, S = Spencer
-1 What do you usually do in the evening after
+1 | What do you usually do in the evening after
 school?
 S Um, I usually go to sports practices, and finish
 homework, and have dinner and things.
@@ -4034,13 +4486,19 @@ I = interviewer, R = Richard
 I What do you like doing at the weekend?
 R Er, I like cycling, walking, um, socializing, cooking.
 
+## 8.20 ??
+
+
+<audio src="./assets/EF1_4ed_SB__08_20.mp3"></audio>
 
 
 # 9A
 
 
 
-## 9.1
+## 9.1 / 54
+
+<audio src="./assets/EF1_4ed_SB__09_01.mp3"></audio>
 
 Carol Hello? Tony?
 Tony Oh, hi, darling. How’s Zurich?
@@ -4070,7 +4528,9 @@ Have a good day tomorrow. Bye.
 
 
 
-## 9.2
+## 9.2 / G 108
+
+<audio src="./assets/EF1_4ed_SB__09_02.mp3"></audio>
 
 I’m working.
 I’m not working.
@@ -4103,114 +4563,124 @@ He’s watching TV at home.
 
 
 
-## 9.3
+## 9.3 / 54
 
-1 [man reading story to children]
+<audio src="./assets/EF1_4ed_SB__09_03.mp3"></audio>
+
+1 | [man reading story to children]
 Man Once upon a time there was a wizard...
-2 [man watching football on TV]
-3 [man opening can of beer, pouring into glass]
-4 [man playing a video game]
-5 [man having a shower]
-6 [man going to bed]
+2 | [man watching football on TV]
+3 | [man opening can of beer, pouring into glass]
+4 | [man playing a video game]
+5 | [man having a shower]
+6 | [man going to bed]
 
 
 
-## 9.4
+## 9.4 / 55
 
-A What are you doing?
-B I’m making dinner.
-A Are the children doing their homework?
-B No, they aren’t. They’re watching TV.
-A What’s your mother doing?
-B She’s helping me.
+<audio src="./assets/EF1_4ed_SB__09_04.mp3"></audio>
 
-
-
-## 9.5 Common verb phrases 2, 2, travelling
-
-1 book tickets
-2 pack a suitcase
-3 leave the house
-4 carry a suitcase
-5 wear sunglasses
-6 get a taxi
-7 wait for a flight
-8 rent a car
-9 arrive at a hotel
-10 stay in a hotel
-11 phone home
-12 buy presents
+A | What are you doing?
+B | I’m making dinner.
+A | Are the children doing their homework?
+B | No, they aren’t. They’re watching TV.
+A | What’s your mother doing?
+B | She’s helping me.
 
 
 
-## 9.6
+## 9.5 / V 126 -  Common verb phrases 2 - 2) Travelling
+
+<audio src="./assets/EF1_4ed_SB__09_05.mp3"></audio>
+
+1 | book tickets
+2 | pack a suitcase
+3 | leave the house
+4 | carry a suitcase
+5 | wear sunglasses
+6 | get a taxi
+7 | wait for a flight
+8 | rent a car
+9 | arrive at a hotel
+10 | stay in a hotel
+11 | phone home
+12 | buy presents
+
+
+
+## 9.6 / 55
+
+<audio src="./assets/EF1_4ed_SB__09_06.mp3"></audio>
 
 1
-A Oh look! An Inter Milan football shirt. It’s perfect
+A | Oh look! An Inter Milan football shirt. It’s perfect
 for Johnny!
-B Yes, good idea. Oh... it’s very expensive.
-A Football shirts are always expensive. OK. What
+B | Yes, good idea. Oh... it’s very expensive.
+A | Football shirts are always expensive. OK. What
 we can get for Jessica?
-B She likes football, too.
-A Yes, but she never wears football shirts. What
+B | She likes football, too.
+A | Yes, but she never wears football shirts. What
 about this bag?
-B I don’t know. Does she like bags?
-A She loves bags...
+B | I don’t know. Does she like bags?
+A | She loves bags...
 
 2
-A Tom, do we need swimming things?
-B I can look at their website. Can you see my
+A | Tom, do we need swimming things?
+B | I can look at their website. Can you see my
 camera?
-A Yes, here it is. Do you want me to put the camera
+A | Yes, here it is. Do you want me to put the camera
 in the suitcase or in your bag?
 
-B In the suitcase, please. OK, here’s the page. Yes,
+B | In the suitcase, please. OK, here’s the page. Yes,
 it has a swimming pool.
-A Great.
+A | Great.
 
 3
-A Good morning. How can I help you?
-B I need a car for three days.
-A What kind of car are you looking for?
-B A small car. It’s just for me.
-A Automatic or manual?
-B Manual, please.
-A Can I see your driving licence?
-B Yes, here you are.
+A | Good morning. How can I help you?
+B | I need a car for three days.
+A | What kind of car are you looking for?
+B | A small car. It’s just for me.
+A | Automatic or manual?
+B | Manual, please.
+A | Can I see your driving licence?
+B | Yes, here you are.
 
 4
-A Is that a number 13?
-B Yes. I think it is. No, it’s a 23.
-A Another 23? I don’t believe it! That’s the third one.
+A | Is that a number 13?
+B | Yes. I think it is. No, it’s a 23.
+A | Another 23? I don’t believe it! That’s the third one.
 And no 13.
-B Another one’s coming now. Let’s see. Yes. That’s
+B | Another one’s coming now. Let’s see. Yes. That’s
 a 13.
-A At last!
+A | At last!
 
 
 
-## 9.7
+## 9.7 / 55
 
-1 B
+<audio src="./assets/EF1_4ed_SB__09_07.mp3"></audio>
+
+1 | B
 M Hi. I’m just leaving the house now.
 L Me too. I’m walking to the bus stop. Are you
 getting the bus too?
 
-2 D
+2 | D
 M No, I’m not. I’m cycling. See you in 20 minutes?
 L OK. See you then.
 
-3 C
+3 | C
 M Where are you? I’m at the cinema, but I can’t see
 you. I’m waiting outside.
 L Sorry, we’re in a lot of traffic. There in five
 minutes.
 
-4 A
+4 | A
 M It’s really cold outside. I’m going in.
 L I’m arriving at the cinema now. Where are you?
 
-5 E
+5 | E
 M I'm standing near the box office. I’m wearing a
 black jacket. Can you see me?
 L Yes, I can! Can you see me? I’m walking towards
@@ -4218,17 +4688,21 @@ you now!
 
 
 
-## 9.8
+## 9.8 / 55
 
-1 bus stop
-2 outside
-3 a lot of traffic
-4 box office
-5 to walk towards somebody
+<audio src="./assets/EF1_4ed_SB__09_08.mp3"></audio>
+
+1 | bus stop
+2 | outside
+3 | a lot of traffic
+4 | box office
+5 | to walk towards somebody
 
 
 
-## 9.9
+## 9.9 / P 132
+
+<audio src="./assets/EF1_4ed_SB__09_09.mp3"></audio>
 
 a living room
 the box office
@@ -4250,7 +4724,9 @@ See you in 20 minutes.
 
 
 
-## 9.10 Undercover Boss
+## 9.10 / 56 - Undercover Boss
+
+<audio src="./assets/EF1_4ed_SB__09_10.mp3"></audio>
 
 Undercover Boss is a TV show where different
 bosses work undercover. They want to know more
@@ -4261,7 +4737,9 @@ week in one of his hotels.
 
 
 
-## 9.11 Episode 1 summary
+## 9.11 / 56 - Episode 1 summary
+
+<audio src="./assets/EF1_4ed_SB__09_11.mp3"></audio>
 
 Monday
 David says that he’s a new worker and that his name
@@ -4293,7 +4771,9 @@ very hard. He’s very tired.
 
 
 
-## 9.12
+## 9.12 / 57
+
+<audio src="./assets/EF1_4ed_SB__09_12.mp3"></audio>
 
 He usually works in an office, but today he’s working
 in a hotel.
@@ -4302,7 +4782,9 @@ and a T-shirt.
 
 
 
-## 9.13
+## 9.13 / G 108
+
+<audio src="./assets/EF1_4ed_SB__09_13.mp3"></audio>
 
 1
 I work in an office.
@@ -4314,34 +4796,40 @@ I’m wearing jeans.
 
 
 
-## 9.14 4 Clothes
+## 9.14 / V 129 -  4) Clothes
 
-1 sweater
-2 T-shirt
-3 shirt
-4 trousers
-5 jeans
-6 shorts
-7 suit
-8 dress
-9 skirt
-10 coat
-11 jacket
-12 socks
-13 trainers
-14 shoes
-15 hat
-16 cap
+<audio src="./assets/EF1_4ed_SB__09_14.mp3"></audio>
+
+1 | sweater
+2 | T-shirt
+3 | shirt
+4 | trousers
+5 | jeans
+6 | shorts
+7 | suit
+8 | dress
+9 | skirt
+10 | coat
+11 | jacket
+12 | socks
+13 | trainers
+14 | shoes
+15 | hat
+16 | cap
 
 
 
-## 9.15
+## 9.15 / 57
+
+<audio src="./assets/EF1_4ed_SB__09_15.mp3"></audio>
 
 bird /3:/ shirt skirt T-shirt serve work
 
 
 
-## 9.16
+## 9.16 / 57
+
+<audio src="./assets/EF1_4ed_SB__09_16.mp3"></audio>
 
 egg lei dress sweater
 boot lu:l shoes suit
@@ -4352,7 +4840,9 @@ tree /i:/ jeans
 
 
 
-## 9.17
+## 9.17 / 57
+
+<audio src="./assets/EF1_4ed_SB__09_17.mp3"></audio>
 
 I = interviewer S = Sandra
 I Hi, Sandra. Tell us a bit about your experience.
@@ -4386,12 +4876,14 @@ S Yes, they are!
 
 
 
-## 9.18
+## 9.18 / P 132
+
+<audio src="./assets/EF1_4ed_SB__09_18.mp3"></audio>
 
 a boss
-work experience
-wash the dishes
-repair something
+work the dishes
+repaexperience
+wash ir something
 serve breakfast
 work hard
 clean a room
@@ -4407,7 +4899,9 @@ surprised
 
 
 
-## 9.19
+## 9.19 / 58
+
+<audio src="./assets/EF1_4ed_SB__09_19.mp3"></audio>
 
 1
 Rob Hey, Alan. Would you like to come to the
@@ -4441,7 +4935,9 @@ Rob Come on!
 
 
 
-## 9.20
+## 9.20 / 59
+
+<audio src="./assets/EF1_4ed_SB__09_20.mp3"></audio>
 
 a pizza
 like a pizza
@@ -4452,7 +4948,9 @@ Would you like to see a film?
 
 
 
-## 9.21
+## 9.21 / 59
+
+<audio src="./assets/EF1_4ed_SB__09_21.mp3"></audio>
 
 Steve Hi, Jenny. What a surprise!
 Jenny Hi, Steve!
@@ -4482,7 +4980,9 @@ Let’s ask for the check.
 
 
 
-## 9.22
+## 9.22 / 59
+
+<audio src="./assets/EF1_4ed_SB__09_22.mp3"></audio>
 
 Rob Would you like to come to the match with
 me?
@@ -4496,19 +4996,21 @@ Jenny I don’t think it’s a good idea.
 
 
 
-## 9.23
+## 9.23 / 59
 
-1 
-A Would you like to come to a party at my
+<audio src="./assets/EF1_4ed_SB__09_23.mp3"></audio>
+
+1 | 
+A | Would you like to come to a party at my
 house?
-B Yes, I’d love to. Thanks! When is it?
-A It’s on Friday at 8.00.
-B Great! See you there.
+B | Yes, I’d love to. Thanks! When is it?
+A | It’s on Friday at 8.00.
+B | Great! See you there.
 
-2 
-A Would you like to come to a party on
+2 | 
+A | Would you like to come to a party on
 Saturday?
-B Sorry, I can’t. I’m busy on Saturday night.
+B | Sorry, I can’t. I’m busy on Saturday night.
 
 
 
@@ -4516,7 +5018,9 @@ B Sorry, I can’t. I’m busy on Saturday night.
 
 
 
-## 10.1
+## 10.1 / 60
+
+<audio src="./assets/EF1_4ed_SB__10_01.mp3"></audio>
 
 Visit Scotland
 Scotland is one of the world’s top tourist destinations,
@@ -4542,40 +5046,46 @@ a great view of the loch.
 
 
 
-## 10.2 Hotels, 1, in a hotel room
+## 10.2 / V 130 -  Hotels: 1) In a hotel room
 
-1 a bed
-2 a pillow
-3 a table
-4 a lamp
-5 a light
-6 a remote control
-7 the floor
-8 the bathroom
-9 a bath
+<audio src="./assets/EF1_4ed_SB__10_02.mp3"></audio>
+
+1 | a bed
+2 | a pillow
+3 | a table
+4 | a lamp
+5 | a light
+6 | a remote control
+7 | the floor
+8 | the bathroom
+9 | a bath
 10a shower
 11a towel
-12 a cupboard
+12 | a cupboard
 
 
 
-## 10.3
+## 10.3 / V 130 - 
 
-1 a swimming pool
-2 a spa
-3 toilets
-4 a restaurant
-5 a bar
-6 a gym
-7 a lift
-8 a gift shop
-9 reception
-10 a garden
-11 a car park
+<audio src="./assets/EF1_4ed_SB__10_03.mp3"></audio>
+
+1 | a swimming pool
+2 | a spa
+3 | toilets
+4 | a restaurant
+5 | a bar
+6 | a gym
+7 | a lift
+8 | a gift shop
+9 | reception
+10 | a garden
+11 | a car park
 
 
 
-## 10.4
+## 10.4 / 60
+
+<audio src="./assets/EF1_4ed_SB__10_04.mp3"></audio>
 
 E = Eric R = Receptionist L = Louisa
 E Hello. Do you have a room for tonight?
@@ -4611,7 +5121,9 @@ eight.
 
 
 
-## 10.5
+## 10.5 / 60
+
+<audio src="./assets/EF1_4ed_SB__10_05.mp3"></audio>
 
 E Louisa, time to get up.
 L OK. What time is it?
@@ -4633,7 +5145,9 @@ at that...
 
 
 
-## 10.6
+## 10.6 / G 110
+
+<audio src="./assets/EF1_4ed_SB__10_06.mp3"></audio>
 
 There’s a TV in the room.
 There’s a shower.
@@ -4655,28 +5169,36 @@ No, there aren’t.
 
 
 
-## 10.7
+## 10.7 / 61
+
+<audio src="./assets/EF1_4ed_SB__10_07.mp3"></audio>
 
 ear hel near here
 chair /ee/ wear there
 
 
 
-## 10.8
+## 10.8 / 61
+
+<audio src="./assets/EF1_4ed_SB__10_08.mp3"></audio>
 
 airport beer dear idea really repair their
 we’re where year
 
 
 
-## 10.9
+## 10.9 / 61
+
+<audio src="./assets/EF1_4ed_SB__10_09.mp3"></audio>
 
 ear/ie/ beer dear idea really we’re year
 chair/ee/ airport repair their where
 
 
 
-## 10.10
+## 10.10 / P 132
+
+<audio src="./assets/EF1_4ed_SB__10_10.mp3"></audio>
 
 a tourist destination
 the coast
@@ -4699,7 +5221,9 @@ Enjoy your stay.
 
 
 
-## 10.11
+## 10.11 / 62
+
+<audio src="./assets/EF1_4ed_SB__10_11.mp3"></audio>
 
 D = Detective J = Jason
 D Where were you at seven o’clock last night?
@@ -4713,7 +5237,9 @@ can ask him.
 
 
 
-## 10.12
+## 10.12 / G 110
+
+<audio src="./assets/EF1_4ed_SB__10_12.mp3"></audio>
 
 I was at home at 8 o'clock.
 I wasn’t at home at 8 o'clock.
@@ -4741,20 +5267,24 @@ No, they weren’t.
 
 
 
-## 10.13
+## 10.13 / 62
 
-1 She’s a teacher. She was a teacher.
-2 Is he an actor? Was he an actor?
-3 We aren’t very happy We weren’t very happy.
-4 It isn’t expensive. It wasn’t expensive.
-5 They’re terrible. They were terrible.
-6 Are you a student? Were you a student?
-7 I’m not tired. I wasn’t tired.
-8 You’re in my class. You were in my class.
+<audio src="./assets/EF1_4ed_SB__10_13.mp3"></audio>
+
+1 | She’s a teacher. She was a teacher.
+2 | Is he an actor? Was he an actor?
+3 | We aren’t very happy We weren’t very happy.
+4 | It isn’t expensive. It wasn’t expensive.
+5 | They’re terrible. They were terrible.
+6 | Are you a student? Were you a student?
+7 | I’m not tired. I wasn’t tired.
+8 | You’re in my class. You were in my class.
 
 
 
-## 10.14
+## 10.14 / 62
+
+<audio src="./assets/EF1_4ed_SB__10_14.mp3"></audio>
 
 D = Detective, K = Kevin
 D ...interview with Kevin Smith at 8 pm on Tuesday
@@ -4789,15 +5319,17 @@ yesterday? Very interesting..
 
 
 
-## 10.15 Where were you yesterday at 7.00 p.m.?
+## 10.15 / 62 - Where were you yesterday at 7.00 p.m.?
 
-1 
+<audio src="./assets/EF1_4ed_SB__10_15.mp3"></audio>
+
+1 | 
 I was at home.
 I was at work.
 I was at school.
 I was at university.
 
-2 
+2 | 
 I was in bed.
 I was in the kitchen.
 I was in my car.
@@ -4810,59 +5342,65 @@ I was in a museum.
 I was in a shopping centre.
 I was in a hotel.
 
-3 
+3 | 
 I was on a bus.
 I was on a train.
 I was on a plane.
 
 
 
-## 10.16
+## 10.16 / 63
 
-1 six o’clock in the morning
+<audio src="./assets/EF1_4ed_SB__10_16.mp3"></audio>
+
+1 | six o’clock in the morning
 [SFX: Woman snoring]
 
-2 eight o’clock in the morning
+2 | eight o’clock in the morning
 [SFX: train noises]
 Announcer This is the Gatwick Express train
 stopping at X, Y and Gatwick airport]
 
-3 eleven o’clock in the morning
+3 | eleven o’clock in the morning
 [SFX: a fasten seatbelts announcement and plane
 taking off]
 
-4 three o’clock in the afternoon
+4 | three o’clock in the afternoon
 [SFX: checking into hotel, receptionist welcome to
 Holiday Inn Benidorm Woman Can I have a room
 for five nights etc.]
 
-5 five o’clock in the afternoon
+5 | five o’clock in the afternoon
 [SFX: lively street noises]
 
-6 seven o’clock in the evening
+6 | seven o’clock in the evening
 [SFX: restaurant noises]
 Waiter What would you like to drink
 Woman Sangria please
 
-7 eleven o’clock at night
+7 | eleven o’clock at night
 [SFX: snoring again]
 
 
 
-## 10.17
+## 10.17 / 63
 
-A Where were you at 7 o’clock yesterday morning?
-B I was at home.
-A Were you in bed?
-B Yes, I was.
-A Where were you at 10 o’clock?
-B I was in a cafe with friends.
-A Were you there all morning?
-B No, we weren’t. We were there for an hour.
+<audio src="./assets/EF1_4ed_SB__10_17.mp3"></audio>
+
+A | Where were you at 7 o’clock yesterday morning?
+B | I was at home.
+A | Were you in bed?
+B | Yes, I was.
+A | Where were you at 10 o’clock?
+B | I was in a cafe with friends.
+A | Were you there all morning?
+B | No, we weren’t. We were there for an hour.
 
 
 
-## 10.18
+## 10.18 / P 132
+
+<audio src="./assets/EF1_4ed_SB__10_18.mp3"></audio>
 
 a robbery
 a bank
@@ -4890,11 +5428,13 @@ people?
 
 
 
-## 10.19
+## 10.19 / 65
+
+<audio src="./assets/EF1_4ed_SB__10_19.mp3"></audio>
 
 1
 I = interviewer, A = Anna
-1 What are you doing in Oxford today?
+1 | What are you doing in Oxford today?
 A I’m here visiting a friend and just looking around.
 
 2
@@ -4914,7 +5454,7 @@ beautiful country.
 4
 I = interviewer, S = Sandra
 I Are you staying in a hotel?
-5 Yes.
+5 | Yes.
 I Do you like it?
 S Yes, I like it very much.
 I Why?
@@ -4933,7 +5473,9 @@ S At ten o’clock last night I was in my hotel room.
 
 
 
-## 11.1
+## 11.1 / 66
+
+<audio src="./assets/EF1_4ed_SB__11_01.mp3"></audio>
 
 We followed our dream
 My wife and I always wanted to live abroad. But
@@ -4948,22 +5490,26 @@ house? But finally, we decided to go!
 
 
 
-## 11.2
+## 11.2 / 66
 
-1 We rented a house near the university.
-2 We booked our flights. It was a long journey!
-3 We invited our friends to our local pub to say
+<audio src="./assets/EF1_4ed_SB__11_02.mp3"></audio>
+
+1 | We rented a house near the university.
+2 | We booked our flights. It was a long journey!
+3 | We invited our friends to our local pub to say
 goodbye.
-4 We packed seven heavy suitcases.
-5 The children didn't want to sleep on the plane.
+4 | We packed seven heavy suitcases.
+5 | The children didn't want to sleep on the plane.
 Sacha played with Lego and Elena looked at
 books.
-6 When we arrived in North Carolina, we were very
+6 | When we arrived in North Carolina, we were very
 tired!
 
 
 
-## 11.3
+## 11.3 / G 112
+
+<audio src="./assets/EF1_4ed_SB__11_03.mp3"></audio>
 
 I arrived at the airport at 7 o'clock.
 I didn’t arrive at the airport at 7 o'clock.
@@ -4991,7 +5537,9 @@ No, they didn’t.
 
 
 
-## 11.4
+## 11.4 / 67
+
+<audio src="./assets/EF1_4ed_SB__11_04.mp3"></audio>
 
 dog /d/
 We arrived in North Carolina.
@@ -5008,22 +5556,26 @@ We invited our friends to our local pub.
 
 
 
-## 11.5
+## 11.5 / 67
 
-1 We rented a house near the university.
-2 We booked our flights. It was a long journey!
-3 We invited our friends to our local pub to say
+<audio src="./assets/EF1_4ed_SB__11_05.mp3"></audio>
+
+1 | We rented a house near the university.
+2 | We booked our flights. It was a long journey!
+3 | We invited our friends to our local pub to say
 goodbye.
-4 We packed seven heavy suitcases.
-5 The children didn't want to sleep on the plane.
+4 | We packed seven heavy suitcases.
+5 | The children didn't want to sleep on the plane.
 Sacha played with Lego and Elena looked at
 books.
-6 When we arrived in North Carolina we were very
+6 | When we arrived in North Carolina we were very
 tired!
 
 
 
-## 11.6
+## 11.6 / 67
+
+<audio src="./assets/EF1_4ed_SB__11_06.mp3"></audio>
 
 At first living in the USA was quite difficult. We
 missed our friends and family and we didn’t like the
@@ -5039,7 +5591,9 @@ with him.
 
 
 
-## 11.7
+## 11.7 / 67
+
+<audio src="./assets/EF1_4ed_SB__11_07.mp3"></audio>
 
 Miriam really liked her job - it was very interesting. I
 worked from home, so I was with the children a lot
@@ -5068,7 +5622,9 @@ of going back there in maybe two or three years.
 
 
 
-## 11.8
+## 11.8 / P 132
+
+<audio src="./assets/EF1_4ed_SB__11_08.mp3"></audio>
 
 a designer
 a National Park
@@ -5089,17 +5645,21 @@ return
 
 
 
-## 11.9
+## 11.9 / 68
 
-1 get a flight get a taxi get up early
-2 have breakfast have a coffee have dinner have
+<audio src="./assets/EF1_4ed_SB__11_09.mp3"></audio>
+
+1 | get a flight get a taxi get up early
+2 | have breakfast have a coffee have dinner have
 lunch have a nice day have a shower
-3 go to bed go home go out go to school
-4 do homework do housework do sport do yoga
+3 | go to bed go home go out go to school
+4 | do homework do housework do sport do yoga
 
 
 
-## 11.10
+## 11.10 / 68
+
+<audio src="./assets/EF1_4ed_SB__11_10.mp3"></audio>
 
 Ben Hi. I’m back. Linda! What are you doing at
 home?
@@ -5127,7 +5687,9 @@ Ben That noise.
 
 
 
-## 11.11
+## 11.11 / 68
+
+<audio src="./assets/EF1_4ed_SB__11_11.mp3"></audio>
 
 Ben And who are you?
 Linda Um, Dad, this is Dylan.
@@ -5139,7 +5701,9 @@ was it, exactly...
 
 
 
-## 11.12
+## 11.12 / 68
+
+<audio src="./assets/EF1_4ed_SB__11_12.mp3"></audio>
 
 I got an early flight.
 We went to the British Museum.
@@ -5148,7 +5712,9 @@ I did my homework.
 
 
 
-## 11.13
+## 11.13 / G 112
+
+<audio src="./assets/EF1_4ed_SB__11_13.mp3"></audio>
 
 I got up late yesterday.
 I didn’t get up late yesterday.
@@ -5182,20 +5748,24 @@ We had dinner with friends.
 
 
 
-## 11.14
+## 11.14 / 69
 
-A What time did you get up?
-B I got up at 7.30.
-A Did you have breakfast?
-B Yes I did.
-A What did you have?
-B I had toast and coffee.
-A What did you do then?
-B I went to work.
+<audio src="./assets/EF1_4ed_SB__11_14.mp3"></audio>
+
+A |  What time did you get up?
+B |I got up at 7.30.
+A | Did you have breakfast?
+B | Yes I did.
+A | What did you have?
+B | I had toast and coffee.
+A | What did you do then?
+B | I went to work.
 
 
 
-## 11.15 Life in a day
+## 11.15 / 69 - Life in a day
+
+<audio src="./assets/EF1_4ed_SB__11_15.mp3"></audio>
 
 Early in the morning in the USA, a baby opened his
 eyes and looked at his mother. ‘Isn’t he pretty?’ she
@@ -5229,7 +5799,9 @@ the 21st century. Watch it! It’s free on YouTube.
 
 
 
-## 11.16
+## 11.16 / P 132
+
+<audio src="./assets/EF1_4ed_SB__11_16.mp3"></audio>
 
 an early flight
 an exam
@@ -5255,65 +5827,75 @@ How was your day?
 
 
 
-## 11.17
+## 11.17 / 70
 
-1 next to
-2 opposite
-3 between
-4 on the corner
-5 on the left
-6 on the right
+<audio src="./assets/EF1_4ed_SB__11_17.mp3"></audio>
+
+1 | next to
+2 | opposite
+3 | between
+4 | on the corner
+5 | on the left
+6 | on the right
 
 
 
-## 11.18
+## 11.18 / 70
+
+<audio src="./assets/EF1_4ed_SB__11_18.mp3"></audio>
 
 1
-A Excuse me?
-B Yes?
-A Is there a coffee shop near here?
-B Yes, there’s one in South Street. It’s next to the
+A | Excuse me?
+B | Yes?
+A | Is there a coffee shop near here?
+B | Yes, there’s one in South Street. It’s next to the
 cinema, on the right.
-A Thanks.
+A | Thanks.
 
 2
-A Excuse me. Is there a Chinese restaurant near
+A | Excuse me. Is there a Chinese restaurant near
 here?
-B Yes, there’s one in King Street, between the bank
+B | Yes, there’s one in King Street, between the bank
 and the gym.
-A Thank you.
+A | Thank you.
 
 3
-A Excuse me. Is there a phone shop near here?
-B Yes, there’s one in North Street, next to the hotel,
+A | Excuse me. Is there a phone shop near here?
+B | Yes, there’s one in North Street, next to the hotel,
 on the left.
-A Thanks.
+A | Thanks.
 
 4
-A Excuse me. Where’s the park?
-B It’s in London Road, opposite the gym.
-A Oh, great. Thank you.
+A | Excuse me. Where’s the park?
+B | It’s in London Road, opposite the gym.
+A | Oh, great. Thank you.
 
 
 
-## 11.19
+## 11.19 / 70
 
-A Excuse me. Is there a bank near here?
-B Yes, there’s one on the corner of King Street and
+<audio src="./assets/EF1_4ed_SB__11_19.mp3"></audio>
+
+A | Excuse me. Is there a bank near here?
+B | Yes, there’s one on the corner of King Street and
 East Road.
-A Thank you.
+A | Thank you.
 
 
 
-## 11.20
+## 11.20 / 71
+
+<audio src="./assets/EF1_4ed_SB__11_20.mp3"></audio>
 
 1C  Go straight on.
-2 A Turn right.
-3 B Turn left.
+2 | A | Turn right.
+3 | B | Turn left.
 
 
 
-## 11.21
+## 11.21 / 71
+
+<audio src="./assets/EF1_4ed_SB__11_21.mp3"></audio>
 
 Rob Excuse me. Is there a cash machine near
 here?
@@ -5326,7 +5908,9 @@ Woman You’re welcome.
 
 
 
-## 11.22
+## 11.22 / 71
+
+<audio src="./assets/EF1_4ed_SB__11_22.mp3"></audio>
 
 Rob
 Man
@@ -5341,7 +5925,9 @@ Thanks.
 
 
 
-## 11.23
+## 11.23 / 71
+
+<audio src="./assets/EF1_4ed_SB__11_23.mp3"></audio>
 
 Jenny Hello?
 Rob Hi, Jennifer?
@@ -5386,7 +5972,9 @@ Bye.
 
 
 
-## 11.24
+## 11.24 / 71
+
+<audio src="./assets/EF1_4ed_SB__11_24.mp3"></audio>
 
 Rob Is there a cash machine near here?
 Rob Thanks very much.
@@ -5395,13 +5983,18 @@ Rob Excuse me, this cash machine isn’t working.
 Rob It only takes about 15 minutes.
 Rob Turn left when you leave the station.
 
+## 11.25 ??
+
+<audio src="./assets/EF1_4ed_SB__11_25.mp3"></audio>
 
 
 # 12A
 
 
 
-## 12.1
+## 12.1 / 72
+
+<audio src="./assets/EF1_4ed_SB__12_01.mp3"></audio>
 
 Regular verbs
 arrived, asked, exchanged, finished, looked, moved,
@@ -5412,27 +6005,31 @@ bought, left, said, saw, sent, sat, told, wrote
 
 
 
-## 12.2
+## 12.2 / 72
 
-1 say said
-2 tell told
-3 finish finished
-4 wait waited
-5 buy bought
-6 phone phoned
-7 write wrote
-8 stop stopped
-9 leave left
-10 send sent
-11 arrive arrived
-12 start started
-13 see saw
-14 sit sat
-15 ask asked
+<audio src="./assets/EF1_4ed_SB__12_02.mp3"></audio>
+
+1 | say said
+2 | tell told
+3 | finish finished
+4 | wait waited
+5 | buy bought
+6 | phone phoned
+7 | write wrote
+8 | stop stopped
+9 | leave left
+10 | send sent
+11 | arrive arrived
+12 | start started
+13 | see saw
+14 | sit sat
+15 | ask asked
 
 
 
-## 12.3
+## 12.3 / 72
+
+<audio src="./assets/EF1_4ed_SB__12_03.mp3"></audio>
 
 Strangers on a Train
 
@@ -5463,7 +6060,9 @@ said. ‘I have time.’
 
 
 
-## 12.4
+## 12.4 / 73
+
+<audio src="./assets/EF1_4ed_SB__12_04.mp3"></audio>
 
 Part 2
 
@@ -5491,25 +6090,29 @@ David I told her my address.
 
 
 
-## 12.5
+## 12.5 / 73
+
+<audio src="./assets/EF1_4ed_SB__12_05.mp3"></audio>
 
 1
-A Where did you go on Saturday?
-B I went shopping for clothes.
-A What did you buy?
-B I bought a new jacket.
-A Was it expensive?
-B No, it wasn’t.
+A | Where did you go on Saturday?
+B | I went shopping for clothes.
+A | What did you buy?
+B | I bought a new jacket.
+A | Was it expensive?
+B | No, it wasn’t.
 
 2
-A What did you do last night?
-B I went to the cinema. I saw a new French film.
-A Did you like it?
-B No, I didn’t like it very much. It was very slow.
+A | What did you do last night?
+B | I went to the cinema. I saw a new French film.
+A | Did you like it?
+B | No, I didn’t like it very much. It was very slow.
 
 
 
-## 12.6
+## 12.6 / G 114
+
+<audio src="./assets/EF1_4ed_SB__12_06.mp3"></audio>
 
 I was at home last night.
 I wasn’t at home last night.
@@ -5536,7 +6139,9 @@ I was on the bus.
 
 
 
-## 12.7
+## 12.7 / G 114
+
+<audio src="./assets/EF1_4ed_SB__12_07.mp3"></audio>
 
 I played tennis yesterday.
 I didn’t play tennis yesterday.
@@ -5551,7 +6156,10 @@ They stayed in a hotel in Chelsea.
 
 
 
-## 12.8
+## 12.8 / G 114
+
+
+<audio src="./assets/EF1_4ed_SB__12_08.mp3"></audio>
 
 I got up late yesterday.
 I didn’t get up late yesterday.
@@ -5566,7 +6174,9 @@ We went to Brazil.
 
 
 
-## 12.9
+## 12.9 / 73
+
+<audio src="./assets/EF1_4ed_SB__12_09.mp3"></audio>
 
 Part 3
 David Olivia's car was in the station car park.
@@ -5587,7 +6197,9 @@ concert starts at 8.00.
 
 
 
-## 12.10
+## 12.10 / 73
+
+<audio src="./assets/EF1_4ed_SB__12_10.mp3"></audio>
 
 Part 4
 David I arrived at the Royal Albert Hall at 7.00. I got
@@ -5610,7 +6222,9 @@ the light...
 
 
 
-## 12.11
+## 12.11 / 73
+
+<audio src="./assets/EF1_4ed_SB__12_11.mp3"></audio>
 
 Part 5
 David
@@ -5623,7 +6237,9 @@ Chanel Number 5.
 
 
 
-## 12.12
+## 12.12 / P 132
+
+<audio src="./assets/EF1_4ed_SB__12_12.mp3"></audio>
 
 a platform
 a nice smell
@@ -5647,7 +6263,9 @@ people?
 
 
 
-## 12.13
+## 12.13 / 77
+
+<audio src="./assets/EF1_4ed_SB__12_13.mp3"></audio>
 
 1
 I = interviewer, S = Sophie
