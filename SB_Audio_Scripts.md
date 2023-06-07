@@ -78,7 +78,7 @@ Tom No, l’m Tom, not Dorn.
 
 
 
-## 1.4 / G 92
+## 1.4 / G 92  -  Verb be (singular):  [+] I and you
 
 <audio src="./assets/EF1_4ed_SB__01_04.mp3"></audio>
 
@@ -93,7 +93,7 @@ You aren't Dorn.
 
 
 
-## 1.5 / G 92
+## 1.5 / G 92  -  Verb be (singular):  [?]  [-]
 
 <audio src="./assets/EF1_4ed_SB__01_05.mp3"></audio>
 
@@ -130,7 +130,7 @@ Assistant 1 Two teas and one cappuccino.
 
 
 
-## 1.8 / V 116 - Numbers 1, zero to ten
+## 1.8 / V 116  -  Numbers I:  zero to ten
 
 <audio src="./assets/EF1_4ed_SB__01_08.mp3"></audio>
 
@@ -275,7 +275,7 @@ See you tomorrow.
 
 
 
-## 1.18 / V 117 -  Countries and nationalities, 1 countries
+## 1.18 / V 117  -  Countries
 
 <audio src="./assets/EF1_4ed_SB__01_18.mp3"></audio>
 
@@ -336,7 +336,7 @@ A | Yes, she is. Very good.
 
 
 
-## 1.22 / G 92
+## 1.22 / G 92  -  Verb be (singular):  [+] he, she, it
 
 <audio src="./assets/EF1_4ed_SB__01_22.mp3"></audio>
 
@@ -350,7 +350,7 @@ It’s from China.
 
 
 
-## 1.23 / G 92
+## 1.23 / G 92  -  Verb be (singular):  contraction
 
 <audio src="./assets/EF1_4ed_SB__01_23.mp3"></audio>
 
@@ -364,7 +364,7 @@ It isn’t from Japan.
 
 
 
-## 1.24 / G 92
+## 1.24 / G 92  -  Verb be (singular):  [?]  [-]
 
 <audio src="./assets/EF1_4ed_SB__01_24.mp3"></audio>
 
@@ -575,7 +575,7 @@ Teacher   B-O-O-K.
 
 
 
-## 1.38 / V 118 -  The classroom, 1, things in the classroom
+## 1.38 / V 118  -  The classroom - Things in the classroom
 
 <audio src="./assets/EF1_4ed_SB__01_38.mp3"></audio>
 
@@ -593,7 +593,7 @@ Teacher   B-O-O-K.
 
 
 
-## 1.39 / V 118 -  2) classroom language
+## 1.39 / V 118  -  Classroom language
 
 <audio src="./assets/EF1_4ed_SB__01_39.mp3"></audio>
 
@@ -762,7 +762,7 @@ Jenny   That’s right.
 
 
 
-## 2.1 / V 117 -  Countries and nationalities 2, nationalities
+## 2.1 / V 117  -  Nationalities
 
 <audio src="./assets/EF1_4ed_SB__02_01.mp3"></audio>
 
@@ -860,7 +860,7 @@ Jim	Nice to meet you.
 
 
 
-## 2.6  / G 94
+## 2.6  / G 94  -  Verb be (plural):  we, you, they
 
 <audio src="./assets/EF1_4ed_SB__02_06.mp3"></audio>
 
@@ -873,7 +873,7 @@ They’re German
 
 
 
-## 2.7 / G 94
+## 2.7 / G 94  -  Verb be (plural):  [-]
 
 <audio src="./assets/EF1_4ed_SB__02_07.mp3"></audio>
 
@@ -886,7 +886,7 @@ They aren’t German
 
 
 
-## 2.8 / G 94
+## 2.8 / G 94  -  Verb be (plural):  [?]  [-]
 
 <audio src="./assets/EF1_4ed_SB__02_08.mp3"></audio>
 
@@ -1073,7 +1073,7 @@ B | 07702 960836.
 
 
 
-## 2.18 / G 94
+## 2.18 / G 94  -  W_ questions with be
 
 <audio src="./assets/EF1_4ed_SB__02_18.mp3"></audio>
 
@@ -1110,7 +1110,7 @@ B | She’s ten.
 
 
 
-## 2.21 / V 116 -  Numbers, 2, eleven to twenty
+## 2.21 / V 116  -  Numbers II - eleven to twenty
 
 <audio src="./assets/EF1_4ed_SB__02_21.mp3"></audio>
 
@@ -1127,7 +1127,7 @@ twenty
 
 
 
-## 2.22 / V 116 -  Numbers, twenty-one to a hundred
+## 2.22 / V 116  -  Numbers III - twenty-one to a hundred
 
 <audio src="./assets/EF1_4ed_SB__02_22.mp3"></audio>
 
@@ -1302,7 +1302,7 @@ la It’s lain dot Smith at yahoo dot com.
 
 
 
-## 3.1 / V 119 -  Small things
+## 3.1 / V 119  -  Small things
 
 <audio src="./assets/EF1_4ed_SB__03_01.mp3"></audio>
 
@@ -1343,7 +1343,7 @@ So try to find a safe place (fade)...
 
 
 
-## 3.3 / G 96
+## 3.3 / G 96  -  Singular and plural nouns;  a / an
 
 <audio src="./assets/EF1_4ed_SB__03_03.mp3"></audio>
 
@@ -1355,7 +1355,7 @@ It’s an ID card.
 
 
 
-## 3.4 / G 96
+## 3.4 / G 96  -  Singular and plural nouns
 
 <audio src="./assets/EF1_4ed_SB__03_04.mp3"></audio>
 
@@ -1559,7 +1559,7 @@ Woman   Yes, and a T-shirt!
 
 
 
-## 3.14 / G 96
+## 3.14 / G 96  -  this / that / these / those;  here / there / over there
 
 <audio src="./assets/EF1_4ed_SB__03_14.mp3"></audio>
 
@@ -1834,7 +1834,7 @@ Jenny   Great idea.
 
 
 
-## 4.2 / V 120 -  People and famiy, 1, people
+## 4.2 / V 120  -  People
 
 <audio src="./assets/EF1_4ed_SB__04_02.mp3"></audio>
 
@@ -1847,7 +1847,7 @@ Jenny   Great idea.
 
 
 
-## 4.3 / V 120 -  Irregular plurals
+## 4.3 / V 120  -  Irregular plurals
 
 <audio src="./assets/EF1_4ed_SB__04_03.mp3"></audio>
 
@@ -1858,7 +1858,7 @@ a person    people
 
 
 
-## 4.4 / V 120 -  2) Family
+## 4.4 / V 120  -  Family
 
 <audio src="./assets/EF1_4ed_SB__04_04.mp3"></audio>
 
@@ -1945,7 +1945,7 @@ S Well, your mother isn’t here, is she?
 
 
 
-## 4.9 / G 98
+## 4.9 / G 98  -  Possessive adjectives
 
 <audio src="./assets/EF1_4ed_SB__04_09.mp3"></audio>
 
@@ -1961,7 +1961,7 @@ Maria.
 
 
 
-## 4.10 / G 98
+## 4.10 / G 98  -  Possessive 's
 
 <audio src="./assets/EF1_4ed_SB__04_10.mp3"></audio>
 
@@ -2117,7 +2117,7 @@ Mum!
 
 
 
-## 4.16 / V 121 -  Adjectives: 1) colours
+## 4.16 / V 121  -  Adjectives - colours
 
 <audio src="./assets/EF1_4ed_SB__04_16.mp3"></audio>
 
@@ -2134,7 +2134,7 @@ Mum!
 
 
 
-## 4.17 / V 121 -  2) Common adjectives
+## 4.17 / V 121  -  Common adjectives
 
 <audio src="./assets/EF1_4ed_SB__04_17.mp3"></audio>
 
@@ -2157,7 +2157,7 @@ Mum!
 
 
 
-## 4.18 / V 121 -  positive and negative adjectives
+## 4.18 / V 121  -  Positive and negative adjectives
 
 <audio src="./assets/EF1_4ed_SB__04_18.mp3"></audio>
 
@@ -2172,7 +2172,7 @@ terrible
 
 
 
-## 4.19 / G 98
+## 4.19 / G 98  -  Adjectives
 
 <audio src="./assets/EF1_4ed_SB__04_19.mp3"></audio>
 
@@ -2272,7 +2272,7 @@ famous
 
 
 
-## 4.25 / 29 - Can you understand these people?
+## 4.25 / 29  -  Can you understand these people?
 
 <audio src="./assets/EF1_4ed_SB__04_25.mp3"></audio>
 
@@ -2325,7 +2325,7 @@ car.
 
 
 
-## 5.2 / V 122 -  Food and drink
+## 5.2 / V 122  -  Food and drink
 
 <audio src="./assets/EF1_4ed_SB__05_02.mp3"></audio>
 
@@ -2356,7 +2356,7 @@ car.
 
 
 
-## 5.3 / V 122 - 
+## 5.3 / V 122  -  Meals;  Verbs - have, eat, drink
 
 <audio src="./assets/EF1_4ed_SB__05_03.mp3"></audio>
 
@@ -2401,7 +2401,7 @@ coffee in my family.
 
 
 
-## 5.5 / G 100
+## 5.5 / G 100  -  Present simple [+]  [-]:  I, you, we, they
 
 <audio src="./assets/EF1_4ed_SB__05_05.mp3"></audio>
 
@@ -2566,7 +2566,7 @@ That’s good!
 
 
 
-## 5.12 / G 100
+## 5.12 / G 100  -  Present simple [?]:  I, you, we, they
 
 <audio src="./assets/EF1_4ed_SB__05_12.mp3"></audio>
 
@@ -2585,7 +2585,7 @@ No, they don’t.
 
 
 
-## 5.13 / V 123 -  Common verb phrases, 1
+## 5.13 / V 123  -  Common verb phrases I
 
 <audio src="./assets/EF1_4ed_SB__05_13.mp3"></audio>
 
@@ -2607,7 +2607,7 @@ No, they don’t.
 
 
 
-## 5.14 / V 123 - 
+## 5.14 / V 123  -  Common verb phrases I
 
 <audio src="./assets/EF1_4ed_SB__05_14.mp3"></audio>
 
@@ -2986,7 +2986,7 @@ Amy OK. Let’s go.
 
 
 
-## 6.1 / V 124 -  Jobs and places of work 1, what do they do?
+## 6.1 / V 124  -  Jobs and places of work - What do they do?
 
 <audio src="./assets/EF1_4ed_SB__06_01.mp3"></audio>
 
@@ -3003,7 +3003,7 @@ Amy OK. Let’s go.
 
 
 
-## 6.2 / V 124 - 
+## 6.2 / V 124  -  What do you do?
 
 <audio src="./assets/EF1_4ed_SB__06_02.mp3"></audio>
 
@@ -3017,7 +3017,7 @@ I’m retired.
 
 
 
-## 6.3 / V 124 -  2) Where do they work?
+## 6.3 / V 124  -  Where do they work?
 
 <audio src="./assets/EF1_4ed_SB__06_03.mp3"></audio>
 
@@ -3066,7 +3066,7 @@ beautiful...
 
 
 
-## 6.5 / G 102
+## 6.5 / G 102  -  Present simple:  he, she, it
 
 <audio src="./assets/EF1_4ed_SB__06_05.mp3"></audio>
 
@@ -3144,7 +3144,7 @@ Does she drink coffee?
 
 
 
-## 6.8 / 37 - Do you speak English at work?
+## 6.8 / 37  -  Do you speak English at work?
 
 <audio src="./assets/EF1_4ed_SB__06_08.mp3"></audio>
 
@@ -3284,7 +3284,7 @@ work!
 
 
 
-## 6.14 / V 125 -  A typical day
+## 6.14 / V 125  -  A typical day
 
 <audio src="./assets/EF1_4ed_SB__06_14.mp3"></audio>
 
@@ -3312,7 +3312,7 @@ in the evening
 
 
 
-## 6.15 / V 125 - 
+## 6.15 / V 125  -  A typical day - listen
 
 <audio src="./assets/EF1_4ed_SB__06_15.mp3"></audio>
 
@@ -3331,7 +3331,7 @@ She has dinner at half past eight.
 
 
 
-## 6.16 / G 102
+## 6.16 / G 102  -  Adverbs of frequency
 
 <audio src="./assets/EF1_4ed_SB__06_16.mp3"></audio>
 
@@ -3497,7 +3497,7 @@ TV.
 
 
 
-## 7.4 / V 126 -  Common verb phrases 2, 1, free time
+## 7.4 / V 126  -  Common verb phrases II  -  Free time
 
 <audio src="./assets/EF1_4ed_SB__07_04.mp3"></audio>
 
@@ -3516,7 +3516,7 @@ TV.
 
 
 
-## 7.5 / G 104
+## 7.5 / G 104  -  Word order in questions  [?]
 
 <audio src="./assets/EF1_4ed_SB__07_05.mp3"></audio>
 
@@ -3532,7 +3532,7 @@ Who are you?
 
 
 
-## 7.6 / G 104
+## 7.6 / G 104  -  Questions with other verbs  [?]
 
 <audio src="./assets/EF1_4ed_SB__07_06.mp3"></audio>
 
@@ -3673,7 +3673,7 @@ Director    Go to the windows. Open them.
 
 
 
-## 7.12 / G 104
+## 7.12 / G 104  -  Imperatives
 
 <audio src="./assets/EF1_4ed_SB__07_12.mp3"></audio>
 
@@ -3686,7 +3686,7 @@ Don’t be late.
 
 
 
-## 7.13 / G 104
+## 7.13 / G 104  -  Object pronouns:  me, him, ...
 
 <audio src="./assets/EF1_4ed_SB__07_13.mp3"></audio>
 
@@ -3846,7 +3846,7 @@ nothing
 
 
 
-## 7.21 / V 127 -  Months and ordinal numbers, 1, months
+## 7.21 / V 127  -  Months
 
 <audio src="./assets/EF1_4ed_SB__07_21.mp3"></audio>
 
@@ -3885,7 +3885,7 @@ Rome.
 
 
 
-## 7.23 / V 127 -  2) Ordinal numbers
+## 7.23 / V 127  -  Ordinal numbers  1st - 20th
 
 <audio src="./assets/EF1_4ed_SB__07_23.mp3"></audio>
 
@@ -3912,7 +3912,7 @@ twentieth
 
 
 
-## 7.24 / V 127 - 
+## 7.24 / V 127  -  Ordinal numbers  21st - 31st
 
 <audio src="./assets/EF1_4ed_SB__07_24.mp3"></audio>
 
@@ -4186,7 +4186,7 @@ need more driving lessons.
 
 
 
-## 8.6 / G 106
+## 8.6 / G 106  -  can / can't:  permission and possibility
 
 <audio src="./assets/EF1_4ed_SB__08_06.mp3"></audio>
 
@@ -4328,7 +4328,7 @@ Yes, of course.
 
 
 
-## 8.13 / V 128 -  Activities
+## 8.13 / V 128  -  Activities
 
 <audio src="./assets/EF1_4ed_SB__08_13.mp3"></audio>
 
@@ -4353,7 +4353,7 @@ Yes, of course.
 
 
 
-## 8.14 / G 106
+## 8.14 / G 106  -  like / love / hate   + verb _ing
 
 <audio src="./assets/EF1_4ed_SB__08_14.mp3"></audio>
 
@@ -4528,7 +4528,7 @@ Have a good day tomorrow. Bye.
 
 
 
-## 9.2 / G 108
+## 9.2 / G 108  -  Present continuous
 
 <audio src="./assets/EF1_4ed_SB__09_02.mp3"></audio>
 
@@ -4590,7 +4590,7 @@ B | She’s helping me.
 
 
 
-## 9.5 / V 126 -  Common verb phrases 2 - 2) Travelling
+## 9.5 / V 126  -  Common verb phrases II  -  Travelling
 
 <audio src="./assets/EF1_4ed_SB__09_05.mp3"></audio>
 
@@ -4724,7 +4724,7 @@ See you in 20 minutes.
 
 
 
-## 9.10 / 56 - Undercover Boss
+## 9.10 / 56  -  Undercover Boss
 
 <audio src="./assets/EF1_4ed_SB__09_10.mp3"></audio>
 
@@ -4737,7 +4737,7 @@ week in one of his hotels.
 
 
 
-## 9.11 / 56 - Episode 1 summary
+## 9.11 / 56  -  Episode 1 summary
 
 <audio src="./assets/EF1_4ed_SB__09_11.mp3"></audio>
 
@@ -4782,7 +4782,7 @@ and a T-shirt.
 
 
 
-## 9.13 / G 108
+## 9.13 / G 108  -  Present continuous  OR  Present simple ?
 
 <audio src="./assets/EF1_4ed_SB__09_13.mp3"></audio>
 
@@ -4796,7 +4796,7 @@ I’m wearing jeans.
 
 
 
-## 9.14 / V 129 -  4) Clothes
+## 9.14 / V 129  -  Clothes
 
 <audio src="./assets/EF1_4ed_SB__09_14.mp3"></audio>
 
@@ -5046,7 +5046,7 @@ a great view of the loch.
 
 
 
-## 10.2 / V 130 -  Hotels: 1) In a hotel room
+## 10.2 / V 130  -  In a hotel room
 
 <audio src="./assets/EF1_4ed_SB__10_02.mp3"></audio>
 
@@ -5065,7 +5065,7 @@ a great view of the loch.
 
 
 
-## 10.3 / V 130 - 
+## 10.3 / V 130  -  In a hotel
 
 <audio src="./assets/EF1_4ed_SB__10_03.mp3"></audio>
 
@@ -5145,7 +5145,7 @@ at that...
 
 
 
-## 10.6 / G 110
+## 10.6 / G 110  -  theres's a ...  /  there are some ...
 
 <audio src="./assets/EF1_4ed_SB__10_06.mp3"></audio>
 
@@ -5237,7 +5237,7 @@ can ask him.
 
 
 
-## 10.12 / G 110
+## 10.12 / G 110  -  Past simple:  be - was,  were
 
 <audio src="./assets/EF1_4ed_SB__10_12.mp3"></audio>
 
@@ -5319,7 +5319,7 @@ yesterday? Very interesting..
 
 
 
-## 10.15 / 62 - Where were you yesterday at 7.00 p.m.?
+## 10.15 / 62  -  Where were you yesterday at 7.00 p.m.?
 
 <audio src="./assets/EF1_4ed_SB__10_15.mp3"></audio>
 
@@ -5507,7 +5507,7 @@ tired!
 
 
 
-## 11.3 / G 112
+## 11.3 / G 112  -  Past simple:  regular verbs
 
 <audio src="./assets/EF1_4ed_SB__11_03.mp3"></audio>
 
@@ -5712,7 +5712,7 @@ I did my homework.
 
 
 
-## 11.13 / G 112
+## 11.13 / G 112  -  Past simple:  irregular verbs - get, go, have, do
 
 <audio src="./assets/EF1_4ed_SB__11_13.mp3"></audio>
 
@@ -5763,7 +5763,7 @@ B | I went to work.
 
 
 
-## 11.15 / 69 - Life in a day
+## 11.15 / 69  -  Life in a day
 
 <audio src="./assets/EF1_4ed_SB__11_15.mp3"></audio>
 
@@ -6110,7 +6110,7 @@ B | No, I didn’t like it very much. It was very slow.
 
 
 
-## 12.6 / G 114
+## 12.6 / G 114  -  Past simple:  be - was, were
 
 <audio src="./assets/EF1_4ed_SB__12_06.mp3"></audio>
 
@@ -6139,7 +6139,7 @@ I was on the bus.
 
 
 
-## 12.7 / G 114
+## 12.7 / G 114  -  Past simple:  regular verbs
 
 <audio src="./assets/EF1_4ed_SB__12_07.mp3"></audio>
 
@@ -6156,7 +6156,7 @@ They stayed in a hotel in Chelsea.
 
 
 
-## 12.8 / G 114
+## 12.8 / G 114  -  Past simple:  irregular verbs
 
 
 <audio src="./assets/EF1_4ed_SB__12_08.mp3"></audio>
