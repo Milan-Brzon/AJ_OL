@@ -1,0 +1,868 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+h1, h2, h3, h4, h5 { white-space: pre-wrap; }
+body { margin: 0px; padding: 0px; height: auto; inset: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+thead, tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+svg { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; border-color: transparent !important; padding-top: 0px !important; padding-bottom: 0px !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  #write > p:nth-child(1) { margin-top: 0px; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+  figure { overflow-x: visible; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.reversefootnote { font-family: ui-monospace, sans-serif; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.6; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; overflow-wrap: anywhere; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
+mjx-container { break-inside: avoid; }
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1024px;
+	}
+}
+
+@media only screen and (min-width: 1800px) {
+	#write {
+		max-width: 1200px;
+	}
+}
+
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+
+/*@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
+
+    .typora-export h1::after,
+    .typora-export h2::after {
+        content: "";
+        display: block;
+        height: 100px;
+        margin-top: -96px;
+        border-top: 1px solid #eee;
+    }
+}*/
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table th:first-child,
+table td:first-child {
+    margin-top: 0;
+}
+table th:last-child,
+table td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    pre {
+        page-break-inside: avoid;
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+/*.html-for-mac {
+    --item-hover-bg-color: #E6F0FE;
+}*/
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+    opacity: 0.4;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+.menu-item-container a.menu-style-btn {
+    background-color: #f5f8fa;
+    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
+}
+
+
+
+</style><title>06</title>
+</head>
+<body class='typora-export os-windows'><div class='typora-export-content'>
+<div id='write'  class=''><h1 id='6a'><span>6A</span></h1><p>&nbsp;</p><p><a href='https://elt.oup.com/student/englishfile/beginner3/grammar/file06/grammar06_a01' target='_blank' class='url'>https://elt.oup.com/student/englishfile/beginner3/grammar/file06/grammar06_a01</a></p><p><a href='https://elt.oup.com/student/englishfile/beginner3/grammar/file06/grammar06_a02' target='_blank' class='url'>https://elt.oup.com/student/englishfile/beginner3/grammar/file06/grammar06_a02</a></p><p><a href='https://elt.oup.com/student/englishfile/beginner3/pronunciation' target='_blank' class='url'>https://elt.oup.com/student/englishfile/beginner3/pronunciation</a></p><p>&nbsp;</p><h2 id='61--v-124-----jobs-and-places-of-work---what-do-they-do'><span>6.1 / V 124  -  Jobs and places of work - What do they do?</span></h2><p><span>° jobs</span>
+<span>° places</span>
+<span>° factory</span></p><audio controls src="./assets/EF1_4ed_SB__06_01.mp3"></audio><p><img src="./assets/image-20230830174421163.png" alt="image-20230830174421163" /></p><p><span>:</span></p><p><span>1:  a teacher</span>
+<span>2:  a doctor</span>
+<span>3:  a nurse</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830174452939.png" alt="image-20230830174452939" /></p><p><span>:</span></p><p><span>4:  a journalist</span>
+<span>5:  a waiter / a waitress</span>
+<span>6:  a shop assistant</span></p><p><img src="./assets/image-20230830174531325.png" alt="image-20230830174531325" /></p><p><span>:</span></p><p><span>7:  a receptionist</span>
+<span>8:  a policeman / a policewoman</span></p><p><img src="./assets/image-20230830174557906.png" alt="image-20230830174557906" /></p><p><span>:</span></p><p><span>9:  a factory worker</span>
+<span>10:  a taxi driver</span></p><p>&nbsp;</p><h2 id='62--v-124-----what-do-you-do'><span>6.2 / V 124  -  What do you do?</span></h2><p><span>° economics</span>
+<span>° unemployed</span>
+<span>° at the moment</span>
+<span>° retired</span></p><audio controls src="./assets/EF1_4ed_SB__06_02.mp3"></audio><p><span>I work for an American company.</span>
+<span>I’m at university.</span>
+<span>I’m a student.</span>
+<span>I study economics.</span>
+<span>I&#39;m at school.</span>
+<span>I’m unemployed at the moment.</span>
+<span>I’m retired.</span></p><p>&nbsp;</p><p>&nbsp;</p><h2 id='63--v-124-----where-do-they-work'><span>6.3 / V 124  -  Where do they work?</span></h2><p><span>° hospital</span></p><audio controls src="./assets/EF1_4ed_SB__06_03.mp3"></audio><p><img src="./assets/image-20230830174819782.png" referrerpolicy="no-referrer" alt="image-20230830174819782"></p><p><span>:</span></p><p><span>1:  in a hospital</span>
+<span>2:  in a shop</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830174833056.png" referrerpolicy="no-referrer" alt="image-20230830174833056"></p><p><span>:</span></p><p><span>3:  in a restaurant</span>
+<span>4:  in an office</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830174856468.png" referrerpolicy="no-referrer" alt="image-20230830174856468"></p><p><span>:</span></p><p><span>5:  in a school</span>
+<span>6:  in a factory</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830174910752.png" referrerpolicy="no-referrer" alt="image-20230830174910752"></p><p><span>:</span></p><p><span>7:  at home</span>
+<span>8:  in the street</span></p><p>&nbsp;</p><p>&nbsp;</p><h2 id='64--36'><span>6.4 / 36</span></h2><p><span>° julia</span>
+<span>° intelligent</span>
+<span>° hair’s</span>
+<span>° blonde</span>
+<span>° doesn’t</span>
+<span>° wear</span>
+<span>° does</span>
+<span>° works</span>
+<span>° hair</span>
+<span>° matt</span>
+<span>° teaches</span>
+<span>° laura</span>
+<span>° shoes</span>
+<span>° horrible</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830175018093.png" alt="image-20230830175018093" style="zoom:50%;" /></p><p>&nbsp;</p><audio controls src="./assets/EF1_4ed_SB__06_04.mp3"></audio><p>&nbsp;</p><p><strong><span>Julia  -  Sara</span></strong></p><p><span>Who’s that over there?</span>
+<span>​</span><span>		</span><span>It’s Anna, you know, the intelligent girl.</span></p><p><span>She’s very different!</span>
+<span>Her hair’s blonde.</span>
+<span>​</span><span>		</span><span>Yes, and </span><strong><span>she doesn’t wear</span></strong><span> glasses now.</span></p><p><span>What </span><strong><span>does she do</span></strong><span>?</span>
+<span>​</span><span>		</span><span>She’s a journalist.</span>
+<span>​</span><span>		</span><span>She work</span><strong><span>s</span></strong><span> for a newspaper - The Times, I think.</span></p><p><span>Is she good?</span>
+<span>​</span><span>		</span><span>I don’t know.</span>
+<span>​</span><span>		</span><span>I don’t read The Times.</span></p><p><span>And who’s that man with grey hair?</span>
+<span>Is it Matt?</span>
+<span>​</span><span>		</span><span>Yes!</span></p><p><span>What </span><strong><span>does he do</span></strong><span>?</span>
+<span>​</span><span>		</span><span>He’s a teacher.</span>
+<span>​</span><span>		</span><span>He teache</span><strong><span>s</span></strong><span> French.</span></p><p><span>Where </span><strong><span>does he work</span></strong><span>?</span>
+<span>​</span><span>		</span><span>At our old school!</span></p><p><span>No! At our old school?</span>
+<span>​</span><span>		</span><span>Yes, and he’s married to Laura!</span></p><p><span>Laura? From our class?</span>
+<span>How awful!</span>
+<span>Is she here?</span>
+<span>​</span><span>		</span><span>Yes, she’s with Matt.</span></p><p><span>Very ugly shoes.</span>
+<span>​</span><span>		</span><span>Yes, horrible.</span></p><p><span>				</span><em><span>Laura:</span></em><span> Sarah, Julia, hi! Great to see you!</span></p><p><span>Hi, Laura!</span>
+<span>Wow - I love your shoes - they’re beautiful...</span></p><p>&nbsp;</p><h2 id='65--g-102-----present-simple--he-she-it'><span>6.5 / G 102  -  Present simple:  h/e, she, it</span></h2><audio controls src="./assets/EF1_4ed_SB__06_05.mp3"></audio><figure class='table-figure'><table><thead><tr><th>&nbsp;</th><th><span>[+]</span></th><th><span>[-]</span></th><th>&nbsp;</th><th><span>[?]</span></th><th><span>[+]</span></th><th><span>[-]</span></th></tr></thead><tbody><tr><td><span>HE</span></td><td><span>He work</span><strong><span>s</span></strong><span>.</span></td><td><span>He </span><strong><span>doesn’t</span></strong><span> work.</span></td><td>&nbsp;</td><td><strong><span>Does</span></strong><span> he work?</span></td><td><span>Yes, he </span><strong><span>does</span></strong><span>.</span></td><td><span>No, he </span><strong><span>doesn’t</span></strong><span>.</span></td></tr><tr><td><span>SHE</span></td><td><span>She work</span><strong><span>s</span></strong><span>.</span></td><td><span>She </span><strong><span>doesn’t</span></strong><span> work.</span></td><td>&nbsp;</td><td><strong><span>Does</span></strong><span> she work?</span></td><td><span>Yes, she </span><strong><span>does</span></strong><span>.</span></td><td><span>No, she </span><strong><span>doesn’t</span></strong><span>.</span></td></tr><tr><td><span>IT</span></td><td><span>It work</span><strong><span>s</span></strong><span>.</span></td><td><span>It </span><strong><span>doesn’t</span></strong><span> work.</span></td><td>&nbsp;</td><td><strong><span>Does</span></strong><span> it work?</span></td><td><span>Yes, it </span><strong><span>does</span></strong><span>.</span></td><td><span>No, it </span><strong><span>doesn’t</span></strong><span>.</span></td></tr></tbody></table></figure><p>&nbsp;</p><p><span>Irregular forms:</span>
+<span>	</span><span>have  -&gt;  has</span>
+<span>	</span><span>do  -&gt;  does</span>
+<span>	</span><span>go  -&gt;  goes</span></p><p>&nbsp;</p><h2 id='66--37---pronunciation--es'><span>6.6 / 37 - Pronunciation -es</span></h2><p><span>Circle the words where final -es = /iz/</span></p><audio controls src="./assets/EF1_4ed_SB__06_06.mp3"></audio><p><span>do</span><strong><span>es</span></strong><span>  |  finish</span><strong><span>es</span></strong><span>  |  go</span><strong><span>es</span></strong><span>  |  lik</span><strong><span>es</span></strong><span>  |  liv</span><strong><span>es</span></strong><span>  |  teach</span><strong><span>es</span></strong><span>  |  watch</span><strong><span>es</span></strong><span>  |  writ</span><strong><span>es</span></strong></p><p><span>:</span></p><p><span>/dʌz/      /ˈfɪnɪʃɪz/     /ɡəʊz/   /laɪks/    /laɪvz/    /ˈtiːtʃɪz/      /ˈwɒtʃɪz/        /raɪts/</span></p><p>&nbsp;</p><p>&nbsp;</p><h2 id='67--37---pronunciation--es'><span>6.7 / 37 - Pronunciation -es</span></h2><p><span>° finish</span>
+<span>° teach</span>
+<span>° newspapers</span></p><audio controls src="./assets/EF1_4ed_SB__06_07.mp3"></audio><p><span>1/</span>
+<span>I live in New York.</span>
+<span>He...</span>
+<span>    :</span>
+<span>He live</span><strong><span>s</span></strong><span> in New York.</span></p><p><span>2/</span>
+<span>I finish work at 8.00.</span>
+<span>She...</span>
+<span>    :</span>
+<span>She finish</span><strong><span>es</span></strong><span> work at 8.00.</span></p><p><span>3/</span>
+<span>I teach English.</span>
+<span>My brother...</span>
+<span>    :</span>
+<span>My brother teach</span><strong><span>es</span></strong><span> English.</span></p><p><span>4/</span>
+<span>I watch CNN.</span>
+<span>She...</span>
+<span>    :</span>
+<span>She watch</span><strong><span>es</span></strong><span> CNN.</span></p><p><span>5/</span>
+<span>I write books.</span>
+<span>He...</span>
+<span>    :</span>
+<span>He write</span><strong><span>s</span></strong><span> books.</span></p><p><span>6/</span>
+<span>I go to university.</span>
+<span>John...</span>
+<span>    :</span>
+<span>John go</span><strong><span>es</span></strong><span> to university.</span></p><p><span>7/</span>
+<span>I don’t eat meat.</span>
+<span>My sister... not</span>
+<span>    :</span>
+<span>My sister </span><strong><span>doesn’t</span></strong><span> eat meat.</span></p><p><span>8/</span>
+<span>I don’t read newspapers.</span>
+<span>My husband...  not</span>
+<span>    :</span>
+<span>My husband </span><strong><span>doesn’t</span></strong><span> read newspapers.</span></p><p><span>9/</span>
+<span>Do you work?</span>
+<span>He...</span>
+<span>    :</span>
+<strong><span>Does</span></strong><span> he work?</span></p><p><span>10/</span>
+<span>Do you drink coffee?</span>
+<span>She...</span>
+<span>    :</span>
+<strong><span>Does</span></strong><span> she drink coffee?</span></p><p>&nbsp;</p><h2 id='68--37-----do-you-speak-english-at-work'><span>6.8 / 37  -  Do you speak English at work?</span></h2><p><span>° banker</span>
+<span>° star</span>
+<span>° hotel</span>
+<span>° Hitachi</span>
+<span>° electronics</span>
+<span>° Tokyo</span>
+<span>° tell</span>
+<span>° us</span>
+<span>° Madrid</span>
+<span>° because</span>
+<span>° customers</span>
+<span>° special</span>
+<span>° dishes</span>
+<span>° happy</span>
+<span>° talk</span>
+<span>° Paris</span>
+<span>° multinational</span>
+<span>° other</span>
+<span>° visit</span>
+<span>° them</span>
+<span>° also</span>
+<span>° answer</span>
+<span>° meetings</span></p><p>&nbsp;</p><audio controls src="./assets/EF1_4ed_SB__06_08.mp3"></audio><p><strong><span>Do you speak English at work?</span></strong></p><p><span>What do these people have in common?</span>
+<span>A banker in Mexico City,</span>
+<span>    a barman in a five-star hotel in Moscow,</span>
+<span>    and a worker in the Hitachi electronics factory in Tokyo.</span>
+<span>They all speak English at work.</span>
+<span>Do you speak English at work?</span>
+<span>Write and tell us.</span></p><p><strong><span>Antonio</span></strong>
+<span>I work in a restaurant in Madrid.</span>
+<span>I’m a waiter.</span>
+<span>I speak English at work every day, because a lot of tourists come here.</span>
+<span>I help customers with the menu and I say what the special dishes are.</span>
+<span>They are very happy because they can talk to me in English.</span>
+<span>A lot of tourists don’t speak Spanish, but they usually speak English.</span></p><p><strong><span>Charlotte</span></strong>
+<span>I’m a receptionist and I work in an office in Paris.</span>
+<span>It’s a multinational company.</span>
+<span>When people from other countries visit the company I need to welcome them in English.</span>
+<span>I also need to answer the phone in English.</span>
+<span>When we have meetings we all speak in English, because it’s the language of the company.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830182619316.png" alt="image-20230830182619316" /></p><p>&nbsp;</p><p>&nbsp;</p><h2 id='69-10---37'><span>6.9-10  / 37</span></h2><p><span>° job</span></p><p><img src="./assets/image-20230830182732990.png" alt="image-20230830182732990" style="zoom:50%;" /></p><audio controls src="./assets/EF1_4ed_SB__06_09.mp3"></audio><p><span>What </span><strong><span>does he</span></strong><span> do?</span>
+<span>He’s a nurse.</span></p><p><span>Where </span><strong><span>does he</span></strong><span> work?</span>
+<span>He works in a hospital.</span></p><p><strong><span>Does he</span></strong><span> speak English at work?</span>
+<span>No, he doesn’t.</span></p><p><strong><span>Does he</span></strong><span> like his job?</span>
+<span>Yes, he does.</span></p><p>&nbsp;</p><audio controls src="./assets/EF1_4ed_SB__06_09.mp3"></audio><p><span>What does he do?   (a nurse)</span>
+<span>    :</span>
+<span>He’s a nurse.</span></p><p><span>Where does he work?  (a hospital)</span>
+<span>    :</span>
+<span>He works in a hospital.</span></p><p><span>Does he speak English at work?  (no)</span>
+<span>    :</span>
+<span>No, he doesn’t.</span></p><p><span>Does he like his job?   (yes)</span>
+<span>    :</span>
+<span>Yes, he does.</span></p><p>&nbsp;</p><audio controls src="./assets/EF1_4ed_SB__06_09.mp3"></audio><p><span>He’s a nurse.</span>
+<span>    :</span>
+<span>What does he do?</span></p><p><span>He works in a hospital.</span>
+<span>    :</span>
+<span>Where does he work?</span></p><p><span>No, he doesn’t.</span>
+<span>    :</span>
+<span>Does he speak English at work?</span></p><p><span>Yes, he does.</span>
+<span>    :</span>
+<span>Does he like his job?</span></p><audio controls src="./assets/EF1_4ed_SB__06_10.mp3"></audio><p>&nbsp;</p><p>&nbsp;</p><h2 id='611--p-131---phrases-to-learn'><span>6.11 / P 131 - Phrases to learn</span></h2><p><span>° why</span></p><audio controls src="./assets/EF1_4ed_SB__06_11.mp3"></audio><p><span>What </span><strong><span>does she</span></strong><span> </span><mark><span>do</span></mark><span>?</span></p><p><span>Where </span><strong><span>does he</span></strong><span> </span><mark><span>teach</span></mark><span>?</span></p><p><span>She’</span><mark><span>s</span></mark><span> a journalist.</span></p><p><span>She </span><strong><span>doesn’t</span></strong><span> </span><mark><span>wear</span></mark><span> glasses.</span></p><p><span>Her hair’</span><mark><span>s</span></mark><span> blonde.</span></p><p><span>He’</span><mark><span>s</span></mark><span> married to Lisa.</span></p><p><span>Great to see you.</span></p><p><span>intelligent</span></p><p><span>How awful!</span></p><p><span>I </span><mark><span>love</span></mark><span> your shoes,</span></p><p><span>a barman</span></p><p><span>a banker</span></p><p><span>customers</span></p><p><span>dishes</span></p><p><span>a multinational company</span></p><p><span>meetings</span></p><p><span>Why?   Because...</span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h1 id='6b'><span>6B</span></h1><p><a href='https://elt.oup.com/student/englishfile/beginner3/grammar/file06/grammar06_b01' target='_blank' class='url'>https://elt.oup.com/student/englishfile/beginner3/grammar/file06/grammar06_b01</a></p><p><a href='https://elt.oup.com/student/englishfile/beginner3/grammar/file06/grammar06_b02' target='_blank' class='url'>https://elt.oup.com/student/englishfile/beginner3/grammar/file06/grammar06_b02</a></p><p><a href='https://elt.oup.com/student/englishfile/beginner3/vocabulary/vocabulary01_03' target='_blank' class='url'>https://elt.oup.com/student/englishfile/beginner3/vocabulary/vocabulary01_03</a></p><p><a href='https://elt.oup.com/student/englishfile/beginner3/vocabulary/vocabulary01_04' target='_blank' class='url'>https://elt.oup.com/student/englishfile/beginner3/vocabulary/vocabulary01_04</a></p><p>&nbsp;</p><h2 id='612--38---good-morning--goodnight'><span>6.12 / 38 - Good morning,  goodnight</span></h2><p><span>° has</span>
+<span>° years</span>
+<span>° get</span>
+<span>° night</span>
+<span>° calls</span>
+<span>° him</span>
+<span>° sleep</span>
+<span>° comes</span>
+<span>° into</span>
+<span>° feel</span>
+<span>° bath</span>
+<span>° turn</span>
+<span>° avocado</span>
+<span>° delicious</span>
+<span>° leave</span>
+<span>° mornings</span></p><audio controls src="./assets/EF1_4ed_SB__06_12.mp3"></audio><p><strong><span>Interviewer    -    Hannah</span></strong></p><p><span>Hannah works for the BBC.</span>
+<span>She has a son Kit who’s three years old.</span></p><p><span>Hannah, what time do you </span><strong><span>usually</span></strong><span> get up?</span>
+<span>​</span><span>		</span><span>I get up at 7.00.</span>
+<span>​</span><span>		</span><span>But I also get up in the night, because Kit usually calls me.</span>
+<span>​</span><span>		</span><span>I tell him to sleep, but he usually comes into my bed.</span></p><p><span>Do you usually feel tired?</span>
+<span>​</span><span>		</span><span>Yes, I always feel tired!</span></p><p><span>Do you have a shower or a bath in the   morning?</span>
+<span>​</span><span>		</span><span>I turn on the TV for Kit and then I have    a   bath    in five minutes.</span></p><p><span>Do you </span><strong><span>always</span></strong><span> have breakfast?</span>
+<span>​</span><span>		</span><span>Yes, I need breakfast every day!</span></p><p><span>Where do you have it?</span>
+<span>​</span><span>		</span><span>I have it in a cafe on the way to work.</span></p><p><span>What do you have for breakfast?</span>
+<span>​</span><span>		</span><span>I have a coffee and sometimes I have some toast with avocado. It’s delicious.</span></p><p><span>What time do you go to work?</span>
+<span>​</span><span>		</span><span>The perfect time to leave the house is at 8.00, but we usually leave at twenty past eight.</span></p><p><span>Do you usually need to hurry in the morning?</span>
+<span>​</span><span>		</span><span>Yes, always!</span></p><p><span>Do you like mornings?</span>
+<span>​</span><span>		</span><span>Yes. I love mornings.</span></p><p><span>Why?</span>
+<span>​</span><span>		</span><span>Because I love my job, and I’m happy to go to work!</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830184317467.png" referrerpolicy="no-referrer" alt="image-20230830184317467"></p><p>&nbsp;</p><p>&nbsp;</p><h2 id='613--38'><span>6.13 / 38</span></h2><audio controls src="./assets/EF1_4ed_SB__06_13.mp3"></audio><p>&nbsp;</p><p><span>1:  What time do you usually get up?</span></p><p><span>2:  Do you usually feel tired?</span></p><p><span>3:  Do you have a shower or a bath in the morning?</span></p><p><span>4:  Do you always have breakfast? Where?</span></p><p><span>5:  What do you have for breakfast?</span></p><p><span>6:  What time do you go to work?</span></p><p><span>7:  Do you usually need to hurry in the morning?</span></p><p><span>8:  Do you like mornings? Why?</span></p><p>&nbsp;</p><p>&nbsp;</p><h2 id='614--v-125-----a-typical-day'><span>6.14 / V 125  -  A typical day</span></h2><p><span>° typical</span>
+<span>° shopping</span>
+<span>° gym</span>
+<span>° make</span>
+<span>° housework</span></p><audio controls src="./assets/EF1_4ed_SB__06_14.mp3"></audio><p>&nbsp;</p><p><img src="./assets/image-20230830184423845.png" alt="image-20230830184423845" /></p><p><strong><span>in the morning</span></strong>
+<span>1:  get up</span>
+<span>2:  have breakfast</span>
+<span>3:  have a shower</span>
+<span>4:  go to work</span>
+<span>5:  have a coffee</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830184441913.png" alt="image-20230830184441913" /></p><p><strong><span>in the afternoon</span></strong>
+<span>6:  have lunch</span>
+<span>7:  finish work</span>
+<span>8:  go home</span>
+<span>9:  go shopping</span>
+<span>10:  go to the gym</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830184527859.png" alt="image-20230830184527859" /></p><p><strong><span>in the evening</span></strong>
+<span>11:  make dinner</span>
+<span>12:  have dinner</span>
+<span>13:  do housework</span>
+<span>14:  watch TV</span>
+<span>15:  have a bath</span>
+<span>16:  go to bed</span></p><p>&nbsp;</p><h2 id='615--v-125-----a-typical-day---listen'><span>6.15 / V 125  -  A typical day - listen</span></h2><p><span>° gets</span>
+<span>° makes</span></p><audio controls src="./assets/EF1_4ed_SB__06_15.mp3"></audio><p>&nbsp;</p><p><img src="./assets/image-20230830185504897.png" referrerpolicy="no-referrer" alt="image-20230830185504897"></p><p><span>6/  Lisa has lunch at one o’clock.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185448497.png" referrerpolicy="no-referrer" alt="image-20230830185448497"></p><p><span>7/  She finishes work at six o’clock.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185522192.png" referrerpolicy="no-referrer" alt="image-20230830185522192"></p><p><span>10/  She goes to the gym.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185540540.png" referrerpolicy="no-referrer" alt="image-20230830185540540"></p><p><span>14/  She watches TV.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185601409.png" referrerpolicy="no-referrer" alt="image-20230830185601409"></p><p><span>9/  She goes shopping.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185626500.png" referrerpolicy="no-referrer" alt="image-20230830185626500"></p><p><span>4/  She goes to work.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185648833.png" referrerpolicy="no-referrer" alt="image-20230830185648833"></p><p><span>13/  She does housework.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185711157.png" referrerpolicy="no-referrer" alt="image-20230830185711157"></p><p><span>1/  She gets up at quarter to seven.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185735234.png" referrerpolicy="no-referrer" alt="image-20230830185735234"></p><p><span>16/  She goes to bed at half past eleven.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185752237.png" referrerpolicy="no-referrer" alt="image-20230830185752237"></p><p><span>11/  She makes dinner.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185809229.png" referrerpolicy="no-referrer" alt="image-20230830185809229"></p><p><span>5/  She has a coffee.</span></p><p>&nbsp;</p><p><img src="./assets/image-20230830185829408.png" referrerpolicy="no-referrer" alt="image-20230830185829408"></p><p><span>12/  She has dinner at half past eight.</span></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><h2 id='616--g-102-----adverbs-of-frequency'><span>6.16 / G 102  -  Adverbs of frequency</span></h2><p><span>° adverbs  -  příslovce</span>
+<span>° frequency</span>
+<span>° never</span>
+<span>° eats</span></p><p>&nbsp;</p><audio controls src="./assets/EF1_4ed_SB__06_16.mp3"></audio><p><span>I </span><strong><span>always</span></strong><span> have breakfast.</span>
+<span>They </span><strong><span>usually</span></strong><span> finish work at 5.00.</span>
+<span>She </span><strong><span>sometimes</span></strong><span> watches TV in the evening.</span>
+<span>He </span><strong><span>never</span></strong><span> eats meat.</span></p><p><span>Does she usually go shopping on Saturday?</span>
+<span>What time do you usually get up?</span></p><p>&nbsp;</p><h2 id='617--39'><span>6.17 / 39</span></h2><p><span>° yacht</span>
+<span>° young</span>
+<span>° ju</span></p><audio controls src="./assets/EF1_4ed_SB__06_17.mp3"></audio><p><span>yacht/j/ yes you young yellow</span>
+<span>/ju:/ usually student music beautiful</span></p><p>&nbsp;</p><h2 id='618--39'><span>6.18 / 39</span></h2><audio controls src="./assets/EF1_4ed_SB__06_18.mp3"></audio><p><span>What time do you usually have lunch?</span>
+<span>At half past one.</span>
+<span>What time do you usually have dinner?</span>
+<span>At about eight o’clock.</span>
+<span>What time do you usually go to bed?</span>
+<span>At half past eleven.</span></p><p>&nbsp;</p><h2 id='619--p-131'><span>6.19 / P 131</span></h2><p><span>° tour</span>
+<span>° guide</span>
+<span>° apartment</span>
+<span>° subway</span>
+<span>° omelette</span></p><audio controls src="./assets/EF1_4ed_SB__06_19.mp3"></audio><p><span>Are you a morning person?</span>
+<span>What time do you get up?</span>
+<span>At eight o’clock.</span>
+<span>He gets up at about 9.30.</span>
+<span>feel tired</span>
+<span>on the way to work</span>
+<span>after work</span>
+<span>every morning</span>
+<span>then</span>
+<span>a tour guide</span>
+<span>an apartment</span>
+<span>the subway</span>
+<span>an omelette</span>
+<span>It’s delicious.</span></p><p>&nbsp;</p><h2 id='620--41'><span>6.20 / 41</span></h2><p><span>° um</span>
+<span>° maybe</span>
+<span>° hanna</span>
+<span>° stockport</span>
+<span>° outside</span>
+<span>° being</span>
+<span>° during</span>
+<span>° week</span>
+<span>° quite</span>
+<span>° before</span>
+<span>° weekends</span></p><audio controls src="./assets/EF1_4ed_SB__06_20.mp3"></audio><p><span>1</span>
+<span>I = interviewer, J = John</span>
+<span>1:  What do you usually have for breakfast?</span>
+<span>J Um, just toast and a cup of tea, maybe.</span></p><p><span>2</span>
+<span>I = interviewer, H = Hanna</span>
+<span>I Do you live in a house or a flat?</span>
+<span>H It’s a house.</span>
+<span>I Where is it?</span>
+<span>H It’s in Stockport, outside Manchester.</span></p><p><span>3</span>
+<span>I = interviewer, L = Lisa</span>
+<span>I Do you have children?</span>
+<span>L I have children, yes I do. I have one son. He is</span>
+<span>sixteen.</span></p><p><span>4</span>
+<span>I = interviewer, S = Susan</span>
+<span>I What do you do?</span>
+<span>5:  I’m retired.</span>
+<span>I Do you like being retired?</span>
+<span>S I do...very much.</span></p><p><span>5</span>
+<span>I = interviewer, K = Kieran</span>
+<span>I What time do you get up during the week?</span>
+<span>K Um, quite early. Usually before eight a.m.</span>
+<span>I And at weekends?</span>
+<span>K At the weekends, much later. About ten a.m.</span></p><p>&nbsp;</p></div></div>
+</body>
+</html>
